@@ -34,7 +34,7 @@ Wax Phantom,Ghost,1,Urban,United States,1970-10-31,5
 Giant Bat,Animal,1,Desert,United States,1972-09-09,3
 Geronimo,Ancient,1,Desert,United States,1972-09-09,3
 Hooded Man,Disguised,1,Rural,United States,1972-09-16,0
-Skeletons,Skeleton,1,Rural,United States,1972-09-16,0
+Skeletons,Undead,1,Rural,United States,1972-09-16,0
 The Vulture,Animal,1,Forest,United States,1972-09-23,0
 Scarecrow,Possessed Object,1,Rural,United States,1972-09-30,0
 Ghost of Captain Moody,Ghost,1,Forest,United States,1972-10-07,0
@@ -87,7 +87,7 @@ Cat Creature,Animal,1,Forest,California,1973-10-06,0
 Frankenstein,Undead,1,Forest,California,1973-10-06,0
 Creepy Man,Disguised,1,Forest,California,1973-10-06,0
 Ghost Bird,Animal,1,Forest,California,1973-10-06,0
-Unknown Exterminator,Disguise,1,Forest,California,1973-10-06,0
+Unknown Exterminator,Disguised,1,Forest,California,1973-10-06,0
 Ghostly Man,Ghost,1,Forest,California,1973-10-06,0
 Invisible Couple,Ghost,1,Forest,California,1973-10-06,0
 Sea Monster,Animal,1,Forest,California,1973-10-06,0
@@ -788,7 +788,7 @@ Creeping Creatures,Animal,1,Swamp,California,2010-07-19,0
 Ghost Truck,Possessed Object,1,Urban,California,2010-07-26,0
 Man-Crab,Animal,1,Coast,California,2010-08-02,1
 Que Horrifico,Ancient,1,Urban,California,2010-08-09,0
-Spookified Kids,Possessed,1,Urban,California,2010-08-09,0
+Spookified Kids,Possessed Object,1,Urban,California,2010-08-09,0
 Ghost Girl,Ghost,1,Urban,California,2010-08-16,0
 Phantom,Ghost,1,Urban,California,2010-08-23,1
 Gnome,Mythical,1,Forest,California,2010-08-30,1
@@ -879,7 +879,7 @@ Sea Monster,Possessed Object,1,Coast,Florida,2015-05-05,0
 Witch,Magician,1,Urban,United States,2015-07-21,0
 KISS Monsters,Possessed Object,1,Urban,United States,2015-07-21,0
 Harpies,Mythical,1,Urban,United States,2015-07-21,0
-The Destroyer,Demon,1,Urban,United States,2015-07-21,0
+The Destroyer,Mythical,1,Urban,United States,2015-07-21,0
 Ghost of Elias Kingston,Ghost,1,Urban,United States,2015-10-05,0
 Spirit of the Zatari Warrior,Ancient,1,Cave,United States,2015-10-06,0
 Sea Creature,Animal,1,Ocean,United States,2015-10-07,0
