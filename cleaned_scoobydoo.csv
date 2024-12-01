@@ -1,1037 +1,1037 @@
-monster_name,monster_type,monster_subtype,monster_species,monster_amount,setting_terrain,setting_country_state,danger
-Black Knight,Possessed Object,Suit,Object,1,Urban,United States,0
-Ghost of Cptn. Cuttler,Ghost,Suit,Human,1,Coast,United States,3
-Phantom,Ghost,Phantom,Human,1,Island,United States,0
-Miner 49'er,Ancient,Miner,Human,1,Cave,California,0
-Indian Witch Doctor,Ancient,Witch Doctor,Human,1,Desert,United States,1
-Ghost of Elias Kingston,Ghost,Phantom,Human,1,Urban,United States,0
-Ape Man,Animal,Half-Human,Ape,1,Desert,United States,0
-Charlie the Robot,Mechanical,Humanoid,Robot,1,Urban,United States,0
-Puppet Master,Ghost,Pupeteer,Human,1,Urban,United States,0
-Ghost Clown,Ghost,Clown,Human,1,Forest,United States,3
-Werewolf,Animal,Werewolf,Human,1,Forest,United States,1
-Dracula,Undead,Vampire,Human,1,Forest,United States,1
-Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Forest,United States,1
-Mummy of Ankha,Undead,Mummy,Human,1,Urban,United States,1
-Zombie,Undead,Zombie,Human,1,Swamp,United States,1
-Witch,Magician,Witch,Human,1,Swamp,United States,1
-Ghost of Redbeard,Ghost,Pirate,Human,1,Ocean,United States,5
-Spooky Space Kook,Extraterrestrial,Phantom,Alien,1,Rural,United States,0
-Green Ghost,Ghost,Phantom,Human,1,Island,United States,2
-Green Ghost,Ghost,Phantom,Human,1,Island,United States,2
-Snow Ghost,Ghost,Snow,Yeti,1,Snow,United States,2
-Ghost of Mr. Hyde,Ghost,Split-Personality,Human,1,Forest,United States,1
-Ghost of Zen Tuo,Ghost,Zombie,Human,1,Urban,California,5
-Scare Pair,Ghost,Zombie,Human,1,Urban,California,5
-Scare Pair,Ghost,Zombie,Human,1,Urban,California,5
-Caveman,Ancient,Caveman,Human,1,Urban,United States,3
-Creeper,Ghost,Phantom,Human,1,Rural,United States,0
-Headless Specter,Ghost,Headless,Human,1,Rural,United States,0
-Witch Doctor,Ancient,Witch Doctor,Human,1,Jungle,Hawaii,0
-Mano Tiki Tia,Possessed Object,Statue,Object,1,Jungle,Hawaii,0
-Werewolf,Animal,Werewolf,Human,1,Rural,United States,3
-Wax Phantom,Ghost,Statue,Human,1,Urban,United States,5
-Giant Bat,Animal,Bat,Bat,1,Desert,United States,3
-Geronimo,Ancient,Indian,Human,1,Desert,United States,3
-Hooded Man,Disguised,Hooded,Human,1,Rural,United States,0
-Skeletons,Skeleton,Humaniod,Human,1,Rural,United States,0
-The Vulture,Animal,Bird,Vulture,1,Forest,United States,0
-Scarecrow,Possessed Object,Scarecrow,Human,1,Rural,United States,0
-Ghost of Captain Moody,Ghost,Phantom,Human,1,Forest,United States,0
-Ghost of Captain Moody,Ghost,Phantom,Human,1,Forest,United States,0
-The Gargoyle,Possessed Object,Statue,Gargoyle,1,Forest,United States,0
-Phantoms,Ghost,Phantom,Human,1,Forest,United States,0
-Phantoms,Ghost,Phantom,Human,1,Forest,United States,0
-Ghost,Ghost,Phantom,Human,1,Urban,United States,2
-Sheik,Disguised,Sheik,Human,1,Urban,United States,2
-Mummy,Undead,Mummy,Human,1,Urban,United States,2
-Pirate,Disguised,Pirate,Human,1,Urban,United States,2
-Dragon,Animal,Dragon,Dragon,1,Urban,United States,2
-Wolfman,Animal,Humanoid,Human,1,Urban,United States,2
-Grizzly Bear,Animal,Bear,Bear,1,Urban,United States,2
-Indian,Ancient,Indian,Human,1,Urban,United States,2
-Mr. Hyde,Disguised,Split-Personality,Human,1,Urban,United States,2
-Shark Men,Animal,Sea-Monster,Shark,1,Island,United States,0
-Shark Men,Animal,Sea-Monster,Shark,1,Island,United States,0
-Skeleton Man,Undead,Skeleton,Human,1,Desert,United States,2
-Lady Ghost,Ghost,Phantom,Human,1,Desert,United States,2
-3-Eyed Spook,Ghost,Phantom,Human,1,Desert,United States,2
-Giant,Ghost,Phantom,Human,1,Desert,United States,2
-Brontosaurus,Ancient,Brontosaurus,Dinosaur,1,Desert,United States,2
-Headless Horsemen of Sleepy Hollow,Ghost,Headless,Human,1,Desert,United States,2
-Skeleton Stage Driver,Ghost,Phantom,Human,1,Desert,United States,2
-The Ghost of Bigfoot,Ghost,Half-Human,Big Foot,1,Snow,Vermont,0
-Ghost of the Red Baron,Ghost,Pilot,Human,1,Rural,United States,3
-Ghost of Redbeard,Ghost,Pirate,Human,1,Swamp,United States,2
-Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,2
-Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,2
-Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,2
-Haunted Horseman,Ghost,Horseman,Human,1,Rural,United States,0
-Moat Monster,Animal,Amphibian,Frog,1,Rural,United States,0
-Possessed Viking Mannequin,Possessed Object,Viking,Human,1,Urban,Tennessee,0
-Possessed Davy Crockett Mannequin,Possessed Object,Soldier,Human,1,Urban,Tennessee,0
-Dryad,Mythical,Tree,Dryad,1,Forest,United States,1
-Troll,Mythical,Humanoid,Troll,1,Forest,United States,1
-Sea Serpent,Mythical,Sea-Monster,Serpent,1,Rural,Massachusetts,0
-Ghost of Paul Revere,Ghost,Phantom,Human,1,Rural,Massachusetts,0
-Minuteman Ghost,Ghost,Phantom,Human,1,Rural,Massachusetts,0
-Redcoat Ghost,Ghost,Phantom,Human,1,Rural,Massachusetts,0
-Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,0
-Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,0
-Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,0
-Ghost of Injun Joe,Ghost,Phantom,Human,1,Coast,Missouri,5
-Ghost of Captain Scavenger,Ghost,Phantom,Human,1,Coast,Missouri,5
-Jadal,Mythical,Phantom,Genie,1,Desert,Iran,3
-Spirit of Fireball McPhan,Ghost,Phantom,Human,1,Urban,United States,5
-Cat Creature,Animal,Humanoid,Human,1,Forest,California,0
-Frankenstein,Undead,Frankenstein's Monster,Human,1,Forest,California,0
-Creepy Man,Disguised,Creepy,Human,1,Forest,California,0
-Ghost Bird,Animal,Headless,Bird,1,Forest,California,0
-Unknown Exterminator,Disguise,Exterminator,Human,1,Forest,California,0
-Ghostly Man,Ghost,Phantom,Human,1,Forest,California,0
-Invisible Couple,Ghost,Phantom,Human,1,Forest,California,0
-Sea Monster,Animal,Sea-Monster,Fish,1,Forest,California,0
-Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,5
-Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,5
-Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,5
-Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,5
-Green Globs,Possessed Object,Humanoid,Human,1,Urban,United States,0
-Green Globs,Possessed Object,Humanoid,Human,1,Urban,United States,0
-Ghostly Strongman,Ghost,Phantom,Human,1,Rural,United States,0
-Specter of Ebenezer Crabbe,Ghost,Phantom,Human,1,Urban,United States,0
-Ghost of Netty Crabbe,Ghost,Phantom,Human,1,Urban,United States,0
-"Mr. Hyde,Snitch","Disguised,Animal","Split-Personality,Split-Personality","Human,Hound",1,Urban,United States,0
-Ghost of King Katazuma,Ghost,Phantom,Human,1,Rural,Mexico,5
-Aztec Statue Monster,Possessed Object,Statue,Human,1,Rural,Mexico,5
-Lowbrow,Super-Villain,Idiot,Human,1,Urban,United States,5
-Lowbrow's Henchmen,Super-Villain,Henchman,Human,1,Urban,United States,5
-Lowbrow's Henchmen,Super-Villain,Henchman,Human,1,Urban,United States,5
-Ghost of Gator Ghoul,Ghost,Amphibian,Alligator,1,Swamp,Georgia,0
-10000 Volt Ghost,Ghost,Electric,Human,1,Snow,United States,0
-Headless Horseman,Ghost,Headless,Human,1,Rural,United States,0
-Ghost of Merlin,Ghost,Witch,Human,1,Forest,United States,2
-Black Knight,Possessed Object,Suit,Human,1,Forest,United States,2
-Ghost of Dr. Coffin,Ghost,Phantom,Human,1,Forest,Canada,0
-No-Face Zombie,Undead,Zombie,Human,1,Urban,United States,0
-Gorilla,Animal,Beast,Gorilla,1,Urban,United States,0
-Mamba Wamba,Ghost,Witch Doctor,Human,1,Swamp,United States,0
-Zombie Lila,Undead,Zombie,Human,1,Swamp,United States,0
-Mamba Zombie,Undead,Zombie,Human,1,Swamp,United States,0
-Demon,Mythical,Demon,Demon,1,Urban,Washington,1
-Swamp Rat,Animal,Humanoid,Rat,1,Swamp,United States,5
-Tamuka the Ghost Bull,Ghost,Beast,Bull,1,Rural,Texas,0
-Medicine Man Ghost,Ghost,Witch Doctor,Human,1,Rural,Texas,0
-Talking Bull,Animal,Beast,Bull,1,Rural,Texas,0
-Demon Shark,Mythical,Demon,Shark,1,Urban,United States,0
-Ghost of Captain Pescado,Ghost,Pirate,Human,1,Ocean,United States,5
-Kelp Monster,Plant,Humanoid,Kelp,1,Ocean,United States,5
-Octopus Monster,Animal,Octopus,Octopus,1,Ocean,United States,5
-Rambling Ghost,Ghost,Athlete,Human,1,Urban,United States,3
-Strawberry Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,0
-Chocolate Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,0
-Vanilla Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,0
-Ghost of Benedict Arnold,Ghost,Statue,Human,1,Urban,Washington D.C.,0
-Ghost of William Demont,Ghost,Statue,Human,1,Urban,Washington D.C.,0
-Ghost of Major Andre,Ghost,Statue,Human,1,Urban,Washington D.C.,0
-Viking Ghost,Ghost,Viking,Human,1,Forest,United States,3
-Viking Ghost,Ghost,Viking,Human,1,Forest,United States,3
-Viking Ghost,Ghost,Viking,Human,1,Forest,United States,3
-Gramps the Vamp,Undead,Vampire,Human,1,Island,United States,0
-Pterodactyl Ghost,Ghost,Pterodactyl,Dinosaur,1,Mountain,United States,0
-Phantom of Milo Booth,Ghost,Phantom,Human,1,Rural,United States,5
-Lochness Monster,Animal,Lochness Monster,Lochness Monster,1,Rural,Scotland,
-Phantom Racer,Ghost,Phantom,Human,1,Desert,United States,1
-Ghost of Witch McCoy,Ghost,Witch,Human,1,Forest,United States,3
-Zombie,Undead,Zombie,Human,1,Forest,United States,3
-Futuristic Monster,Animal,Humanoid,Insect,1,Ocean,United States,2
-Creepy Heap from the Deep,Animal,Sea-Monster,Sea-Monster,1,Coast,United States,0
-Soulless Captain Clements,Undead,Possessed,Human,1,Coast,United States,0
-Abominable Snowman,Animal,Yeti,Snow-Monster,1,Mountain,Nepal,
-Abominable Snowwoman,Animal,Yeti,Snow-Monster,1,Mountain,Nepal,
-Leprechaun,Mythical,Magician,Leprechaun,1,Rural,Ireland,
-Prehistoric Dinosaur,Animal,Dinosaur,Dinosaur,1,Island,Hawaii,
-Willawa,Animal,Owl,Owl,1,Forest,Indian Reserve,0
-Owl Men,Animal,Humanoid,Owl,1,Forest,Indian Reserve,0
-Owl Men,Animal,Humanoid,Owl,1,Forest,Indian Reserve,0
-Ghost of Blue Beard,Ghost,Pirate,Human,1,Island,Caribbean,
-Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,3
-Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,3
-Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,3
-Snow Beast,Animal,Beast,Snow-Monster,1,Snow,Canada,0
-Annabelle,Mythical,Amazonian,Amazonian,1,Jungle,Brazil,
-Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Rural,Romania,
-Vampires,Undead,Vampire,Human,1,Rural,Romania,
-Living Trees,Plant,Tree,Tree,1,Rural,Romania,
-Monster of the Black Lagoon,Animal,Serpent,Swamp Monster,1,Rural,Romania,
-Ghost Witch of Old Salem,Ghost,Witch,Human,1,Rural,Massachusetts,0
-Tar Monster,Possessed Object,Tar,Creature,1,Cave,Turkey,0
-Giant Squid,Animal,GIant,Squid,1,Ocean,Atlantis,
-Ghost of Finnyan McDuff,Ghost,Phantom,Human,1,Rural,Scotland,2
-Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,2
-Old Iron Face,Disguised,Pirate,Human,1,Island,United States,0
-Jaguaro,Animal,Beast,Jungle-Monster,1,Jungle,Brazil,2
-Cat Creature,Animal,Humanoid,Cat,1,Urban,New York,1
-Mantis,Animal,Humanoid,Mantis,1,Rural,United States,1
-Phantom,Ghost,Musician,Human,1,Urban,United States,0
-Moon Monster,Ghost,Demon,Beast,1,Urban,China,0
-Ghostly Gondolier,Ghost,Phantom,Human,1,Urban,Italy,1
-Ghost of Juan Carlos,Ghost,Phantom,Human,1,Island,Puerto Rico,3
-Anthos,Ancient,Warlock,Human,1,Forest,England,0
-Devil Hound,Animal,Demon,Hound,1,Forest,England,0
-Beast of Bottomless Lake,Animal,Humanoid,Sea-Monster,1,Forest,Canada,0
-Blue Scarab,Disguised,Super-Villain,Human,1,Urban,United States,0
-Night Ghoul,Undead,Ghoul,Human,1,Urban,United States,0
-Alien,Extraterrestrial,Alien,Alien,1,Forest,United States,0
-Neon Phantom,Ghost,Phantom,Human,1,Urban,California,0
-Snake Demon,Animal,Demon,Snake,1,Coast,Florida,0
-Clown,Disguised,Clown,Human,1,Coast,Florida,0
-Sky Skeleton,Undead,Skeleton,Human,1,Rural,United States,0
-Dragon Beast,Mythical,Humanoid,Dragon,1,Urban,Japan,0
-Devil Bear,Animal,Demon,Bear,1,Desert,Arizona,0
-Sea Beast of the Aztecs,Animal,Humanoid,Sea-Monster,1,Coast,Mexico,0
-Lady Vampire of the Bat,Undead,Vampire,Human,1,Urban,California,0
-Star Creature,Extraterrestrial,Humanoid,Star,1,Rural,United States,0
-Shadow Creature,Animal,Humanoid,Creature,1,Urban,United States,0
-Ghost of Jeremiah Pratt,Ghost,Phantom,Human,1,Snow,United States,0
-Ghost of the Great Haldane,Ghost,Magician,Human,1,Urban,New Jersey,0
-Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,0
-Aliens,Extraterrestrial,Alien,Alien,1,Space,Space,
-Aliens,Extraterrestrial,Alien,Alien,1,Space,Space,
-Sylvester,Undead,Vampire,Human,1,Rural,United States,
-Chinese Food Factory Burglar,Disguised,Masked,Human,1,Urban,California,
-Arabian Magician,Magician,Magician,Human,1,Desert,Saudi Arabia,
-Cat Man,Animal,Humanoid,Cat,1,Mountain,South America,
-Mummy,Undead,Mummy,Human,1,Desert,Egypt,
-Caveman,Ancient,Caveman,Human,1,Island,United States,
-Pirate,Ancient,Pirate,Human,1,Ocean,United States,
-Swamp Witch,Magician,Witch,Human,1,Swamp,United States,
-Knight,Ancient,Knight,Human,1,Rural,Scotland,
-Wax Master,Possessed Object,Statue,Human,1,Urban,England,
-Evil Trees,Plant,Evil,Tree,1,Rural,United States,
-Caterpillar,Animal,Talking,Caterpillar,1,Rural,United States,
-Cheshire Cat,Animal,Talking,Cat,1,Rural,United States,
-Queen of Hearts,Magician,Queen,Human,1,Rural,United States,
-Lava Monster,Possessed Object,Statue,Lava,1,Jungle,Hawaii,
-Alaskan Monster,Animal,Beast,Snow-Monster,1,Snow,Alaska,
-Rocky Maximus,Ancient,Gladiator,Human,1,Urban,Italy,
-Swamp Monster,Animal,Beast,Swamp-Monster,1,Swamp,United States,
-Shaggy,Animal,Werewolf,Human,1,Rural,Austria,
-Rock Monsters,Possessed Object,Rock,Cave-Monster,1,Cave,United States,
-Rock Monsters,Possessed Object,Rock,Cave-Monster,1,Cave,United States,
-Wicked Witch of the North by Southeast,Magician,Witch,Human,1,Rural,United States,
-Phantom of the Sewers,Disguised,Phantom,Human,1,Urban,France,
-Rawhide Red,Mechanical,Robot,Object,1,Rural,United States,
-Enemy Spy,Disguised,Spy,Human,1,Urban,California,
-Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,
-Pleasure Island Man,Magician,Trickster,Human,1,Urban,United States,
-Pirate,Ghost,Pirate,Human,1,Island,United States,
-Sheet Ghost,Ghost,Phantom,Human,1,Forest,United States,
-Centaur,Animal,Centaur,Centaur,1,Ocean,Atlantis,
-Merlin,Magician,Wizard,Human,1,Rural,England,
-Jasper,Animal,Giant,Frog,1,Rural,England,
-Alien,Extraterrestrial,Alien,Alien,1,Space,Space,
-Dragon,Mythical,Dragon,Dragon,1,Cave,China,
-Pat O'Wiley,Mythical,Leprechaun,Leprechaun,1,Forest,Ireland,
-Madame Olga,Magician,Witch,Human,1,Urban,United States,
-Red Baron,Ancient,Pilot,Human,1,Urban,United States,
-T-Rex,Animal,Dinosaur,Dinosaur,1,Urban,United States,
-Toy Gorilla,Mechanical,Toy,Gorilla,1,Urban,England,
-Plutonian,Extraterrestrial,Alien,Hound,1,Urban,United States,
-Dr. Wolf,Animal,Werewolf,Human,1,Urban,United States,
-Vampire Foreman,Undead,Vampire,Human,1,Urban,United States,
-Carnivorous Plants,Plant,Giant,Venus Fly Trap,1,Urban,United States,
-Bigfoot,Animal,Humanoid,Bigfoot,1,Forest,United States,
-Giant,Mythical,Giant,Human,1,Rural,United States,
-Catfish Burglar,Disguised,Masked,Human,1,Ocean,United States,
-Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,California,
-Medusa,Mythical,Gorgon,Human,1,Urban,California,
-Sea Creature,Animal,Humanoid,Sea-Monster,1,Urban,California,
-Octopus Monster,Animal,Giant,Octopus,1,Urban,California,
-Bigfoot,Animal,Humanoid,Bigfoot,1,Urban,California,
-Slime Boy,Disguised,Slime,Human,1,Urban,United States,
-Jasmine,Mythical,Phantom,Genie,1,Urban,United States,
-Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,
-Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,
-Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,
-Dognapper,Disguised,,Human,1,Urban,United States,
-Cat Lady,Animal,Cat,Human,1,Urban,United States,
-Wonga,Ancient,Caveman,Human,1,Forest,Pre-Historic,
-Scooby-Doo,Animal,Werewolf,Hound,1,Urban,United States,
-Abominable Snowman,Animal,Humanoid,Snow-Monster,1,Snow,United States,
-Olaf the Terrible,Ancient,Viking,Human,1,Coast,Norway,
-Great White Shark,Animal,Shark,Shark,1,Island,South America,
-Seaweed Monster,Plant,Seaweed,Sea-Monster,1,Island,South America,
-Face in the Fireplace,Ghost,Phantom,Human,1,Rural,United States,
-Ghosts Under the Bed,Ghost,Phantom,Human,1,Rural,United States,
-Living Animal Heads,Undead,Head,Beast,1,Rural,United States,
-Skeleton,Undead,Skeleton,Human,1,Rural,United States,
-Living Statue,Possessed Object,Statue,Human,1,Rural,United States,
-Organ Playing Ghost,Ghost,Phantom,Human,1,Rural,United States,
-Mud Monster,Possessed Object,Humanoid,Mud,1,Desert,United States,
-Hound of the Barkervilles,Animal,Werewolf,Hound,1,Rural,Scotland,
-Dinosaur,Animal,Dinosaur,Dinosaur,1,Jungle,Mexico,
-Creature from Chem Lab,Possessed Object,Humanoid,Chem,1,Urban,United States,
-Masked Manx,Animal,Humanoid,Gorilla,1,Forest,United States,
-Randar the Ape Man,Animal,Humanoid,Ape,1,Jungle,Africa,
-Mobotsu,Animal,Giant,Ape,1,Jungle,Africa,
-Maid Zombie,Undead,Possessed,Human,1,Island,South America,
-Barney Zombie,Undead,Possessed,Human,1,Island,South America,
-Tourist Zombie,Undead,Possessed,Human,1,Island,South America,
-Amy Zombie,Undead,Possessed,Human,1,Island,South America,
-Neanderthal Monster of Devil's Rock,Animal,Humanoid,Beast,1,Rural,Australia,
-Tower Wizard,Magician,Wizard,Human,1,Rural,United States,
-Yadzruck,Animal,Humanoid,Yadzruck,1,Rural,United States,
-Phantom of the Soaps,Ghost,Phantom,Human,1,Urban,United States,
-Clown,Disguised,Clown,Human,1,Rural,United States,
-Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,
-Ghost of Casey O'Reilly,Ghost,Phantom,Human,1,Urban,United States,
-Gremlin,Mythical,Gremlin,Gremlin,1,Rural,California,
-Specter of the Sports Cars,Ghost,Phantom,Human,1,Urban,United States,
-Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Forest,Romania,
-Dracula,Undead,Vampire,Human,1,Forest,Romania,
-Dracula's Wife,Undead,Vampire,Human,1,Forest,Romania,
-Dracula Jr.,Animal,Werewolf,Human,1,Forest,Romania,
-Ghost of Chef Maras,Ghost,Chef,Human,1,Urban,France,
-Mummy,Undead,Mummy,Human,1,Rural,Austria,
-Ghost of McBaggy Rodgers,Ghost,Phantom,Human,1,Rural,Massachusetts,
-Red Skull,Disguised,Skull,Human,1,Urban,United States,0
-Maid Mummy,Undead,Mummy,Human,1,Urban,United States,
-Helping Hands,Possessed Object,Gloves,Object,1,Forest,United States,
-Sea Demon,Animal,Humanoid,Sea-Monster,1,Coast,Denmark,
-Sea Demon,Animal,Humanoid,Sea-Monster,1,Coast,Denmark,
-Cyclops,Mythical,Cyclops,Human,1,Island,Greece,
-Master Mind,Super-Villain,Genius,Human,1,Urban,New York,
-Giant Bees,Animal,Giant,Bee,1,Rural,United States,
-Ghost of Ebenezer Overview,Ghost,Phantom,Human,1,Snow,United States,
-Zombies,Undead,Zombie,Human,1,Island,South America,5
-Zombies,Undead,Zombie,Human,1,Island,South America,5
-Zombies,Undead,Zombie,Human,1,Island,South America,5
-Zombies,Undead,Zombie,Human,1,Island,South America,5
-Evil Elf,Mythical,Elf,Elf,1,Forest,United States,
-Mad Sea Lion,Animal,Sea Lion,Sea Lion,1,Snow,Antarctica,
-Ghost of Dr. Van Helsing,Ghost,Phantom,Human,1,Desert,United States,3
-Ghost of Abraham Lincoln,Ghost,President,Human,1,Urban,Washington D.C.,
-Ghost of George Washington,Ghost,President,Human,1,Urban,Washington D.C.,
-Ghost of Ulysses S. Grant,Ghost,President,Human,1,Urban,Washington D.C.,
-Ghost of Theodore Roosevelt,Ghost,President,Human,1,Urban,Washington D.C.,
-Ghost of Colonel Beauregard,Ghost,Phantom,Human,1,Swamp,United States,
-Ghost of Sherlock Holmes,Ghost,Detective,Human,1,Urban,England,
-Monster Mutt,Animal,Super-Villain,Hound,1,Urban,California,
-Monster Mouse,Animal,Giant,Mouse,1,Rural,United States,
-Ghost of Christmas Never,Ghost,Phantom,Human,1,Snow,United States,
-Bogle,Ghost,Phantom,Cartoon,1,Snow,Tibet,
-Weerd,Ghost,Phantom,Cartoon,1,Snow,Tibet,
-Ghoulio,Undead,Vampire,Human,1,Snow,Tibet,
-Werewolfs,Animal,Werewolf,Human,1,Snow,Tibet,
-Werewolf Daphnie,Animal,Werewolf,Human,1,Snow,Tibet,
-Maldore the Malevolent,Mythical,Demon,Demon,1,Forest,United States,
-Evil Tree,Plant,Evil,Tree,1,Forest,United States,
-Evil Tree,Plant,Evil,Tree,1,Forest,United States,
-Dragon,Mythical,Dragon,Dragon,1,Forest,United States,
-Rat Gaurds,Animal,Giant,Rat,1,Forest,United States,
-Rat Gaurds,Animal,Giant,Rat,1,Forest,United States,
-Shadow Demon,Mythical,Shadow,Demon,1,Rural,United States,
-Griswald,Animal,Giant,Spider,1,Rural,United States,
-Bogle,Ghost,Phantom,Cartoon,1,Desert,Morocco,
-Weerd,Ghost,Phantom,Cartoon,1,Desert,Morocco,
-Reflector Specter,Mythical,Mirror,Demon,1,Desert,Morocco,
-Zomba,Mythical,Demon,Demon,1,Urban,United States,
-Dr. Frankscoob's Monster,Undead,Frankenstein's Monster,Human,1,Urban,United States,
-Bogel,Ghost,Phantom,Cartoon,1,Ocean,Bermuda Triangle,
-Weerd,Ghost,Phantom,Cartoon,1,Ocean,Bermuda Triangle,
-Captain Ghost,Ghost,Phantom,Human,1,Ocean,Bermuda Triangle,
-Ghosts on the Ship,Ghost,Phantom,Human,1,Ocean,Bermuda Triangle,
-Bogel,Ghost,Phantom,Cartoon,1,Urban,Louisiana,
-Weerd,Ghost,Phantom,Cartoon,1,Urban,Louisiana,
-Nekara,Magician,Witch,Human,1,Urban,Louisiana,
-Marcella,Magician,Witch,Human,1,Forest,United States,
-Helda Brewski,Magician,Witch,Human,1,Forest,United States,
-Ernestine Brewski,Magician,Witch,Human,1,Forest,United States,
-Wanda Brewski,Magician,Witch,Human,1,Forest,United States,
-Time Slime,Magician,Wizard,Human,1,Urban,United States,
-Bogel,Ghost,Phantom,Human,1,Urban,United States,
-Weerd,Ghost,Phantom,Human,1,Urban,United States,
-Demondo,Mythical,Demon,Demon,1,Urban,United States,
-Bogel,Ghost,Phantom,Cartoon,1,Urban,United States,
-Weerd,Ghost,Phantom,Cartoon,1,Urban,United States,
-Rankor,Undead,Vampire,Goblin,1,Rural,United States,
-Bogel,Ghost,Phantom,Cartoon,1,Rural,United States,
-Weerd,Ghost,Phantom,Cartoon,1,Rural,United States,
-Head of S.A.P.S.,Ghost,Demon,Demon,1,Rural,United States,
-Living Plants,Plant,Flower,Flower,1,Rural,United States,
-Porff. Phantazmo,Magician,Warlock,Human,1,Rural,United States,
-Bogel,Ghost,Phantom,Cartoon,1,Rural,United States,
-Weerd,Ghost,Phantom,Cartoon,1,Rural,United States,
-Zimbulu,Mythical,Demon,Demon,1,Urban,United States,
-Bogel,Ghost,Phantom,Cartoon,1,Urban,United States,
-Weerd,Ghost,Phantom,Cartoon,1,Urban,United States,
-Boris Kreepoff,Undead,Zombie,Human,1,Urban,United States,
-Zombies,Undead,Zombie,Human,1,Urban,United States,
-Zombies,Undead,Zombie,Human,1,Urban,United States,
-Zombies,Undead,Zombie,Human,1,Urban,United States,
-Headless Horseman,Undead,Undead,Human,1,Swamp,United States,
-Beauregard's Ghost,Ghost,Soldier,Human,1,Swamp,United States,
-Skull Ghost,Undead,Skeleton,Human,1,Swamp,United States,
-Floating Skeleton,Undead,Skeleton,Human,1,Swamp,United States,
-Ghost,Ghost,Phantom,Human,1,Urban,United States,0
-Sludge Monster from the Earth's Croe,Possessed Object,Sludge,Sludge-Monster,1,Urban,United States,0
-Dr. Croaker,Animal,Humanoid,Frog,1,Urban,United States,0
-Cheese Monster,Possessed Object,Humanoid,Cheese,1,Urban,United States,4
-Ghost of Al Cabone,Ghost,Phantom,Human,1,Urban,United States,0
-Boogedy Bones,Undead,Zombie,Human,1,Urban,United States,0
-Revolta,Magician,Witch,Human,1,Swamp,United States,
-Grim Creeper,Plant,Humanoid,Potato,1,Swamp,United States,
-Mirror Monster,Magician,Mirror Monster,Human,1,Swamp,United States,
-Well-Dweller,Animal,Humanoid,Sea-Monster,1,Swamp,United States,
-Ice Demon,Possessed Object,Humanoid,Ice,1,Mountain,United States,5
-Samurai Ghost,Ghost,Samurai,Human,1,Urban,United States,0
-Headless Skateboarder,Undead,Headless,Human,1,Coast,United States,0
-Boobeard,Ghost,Pirate,Human,1,Urban,United States,0
-Totem Spirit,Possessed Object,Statue,Totem,1,Forest,United States,3
-Ghost of Chef Pierre Goulash,Ghost,Chef,Human,1,Urban,United States,0
-Stinkweed,Plant,Humanoid,Plant-Monster,1,Urban,United States,0
-Ghost of Buster McMutt Mauler,Ghost,Phantom,Human,1,Urban,United States,0
-Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,0
-Ghost of Purvis Parker,Undead,Skeleton,Human,1,Urban,United States,0
-Chickenstein,Undead,Frankenstein's Monster,Chicken,1,Urban,United States,0
-Burger Monster,Possessed Object,Burger,Burger,1,Urban,United States,0
-Dinkley 2000,Mechanical,Humanoid,Computer,1,Urban,United States,4
-Ghost of Zombo,Ghost,Clown,Human,1,Urban,United States,0
-Boogey Biker,Undead,Skeleton,Human,1,Urban,United States,0
-Astronaut Ghost,Ghost,Astronaut,Human,1,Urban,United States,0
-Bigwig,Possessed Object,Humanoid,Hair,1,Urban,United States,0
-Ghost of the Hooded Heifer,Ghost,Wrestler,Human,1,Urban,United States,0
-Nasty-Doo,Animal,Hound,Hound,1,Urban,United States,0
-Ghost of Mrs. Shusham,Ghost,Librarian,Human,1,Urban,United States,0
-Moving Mollusk,Animal,Giant,Snail,1,Urban,New York,0
-Ghostly Gardener,Undead,Ghost,Human,1,Rural,United States,0
-Ghost of Morgan Moonscar,Ghost,Pirate,Human,1,Swamp,Louisiana,3
-Pirate Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,3
-Confederate Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,3
-Tourist Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,3
-Simone Lenoir,Animal,Werecat,Human,1,Swamp,Louisiana,3
-Lena Dupree,Animal,Werecat,Human,1,Swamp,Louisiana,3
-Jacques,Animal,Werecat,Human,1,Swamp,Louisiana,3
-Ben Ravencroft,Magician,Warlock,Human,1,Rural,Massachusetts,3
-Sarah Ravencroft,Ghost,Witch,Human,1,Rural,Massachusetts,3
-Evil Trees,Plant,Evil,Tree,1,Rural,Massachusetts,3
-Pumpkin Monsters,Plant,Humanoid,Pumpkin,1,Rural,Massachusetts,3
-Enormous Turkey,Animal,Giant,Turkey,1,Rural,Massachusetts,3
-Casper County Monster,Animal,Humanoid,Forest-Monster,1,Forest,United States,0
-Casper County Monster,Animal,Humanoid,Forest-Monster,1,Forest,United States,0
-Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,5
-Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,5
-Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,5
-Phantom Virus,Possessed Object,Humanoid,Electric,1,Urban,United States,5
-Zombie,Undead,Zombie,Human,1,Rural,United States,0
-Mummy,Undead,Mummy,Human,1,Rural,United States,0
-Zombie Gary Coleman,Undead,Zombie,Human,1,Rural,United States,0
-Demons,Mythical,Demon,Demon,1,Island,United States,4
-Demons,Mythical,Demon,Demon,1,Island,United States,4
-Demons,Mythical,Demon,Demon,1,Island,United States,4
-Demons,Mythical,Demon,Demon,1,Island,United States,4
-Possessed College Kids,Possessed Object,Possessed,Human,1,Island,United States,4
-Possessed Fred,Possessed Object,Possessed,Human,1,Island,United States,4
-Possessed Marry Jane,Possessed Object,Possessed,Human,1,Island,United States,4
-Possessed Daphine,Possessed Object,Possessed,Human,1,Island,United States,4
-Possessed Velma,Possessed Object,Possessed,Human,1,Island,United States,4
-Scrappy-Rex,Animal,Giant,Hound,1,Island,United States,4
-Green Monster,Plant,Humanoid,Weed,1,Urban,United States,2
-Snow Creature,Animal,Humanoid,Ice-Monster,1,Snow,United States,0
-Dinosaur Spirit,Animal,Spirit,Dinosaur,1,Jungle,Costa Rica,0
-The Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,0
-Ghost of the Leland Brothers,Ghost,Soldier,Human,1,Urban,Louisiana,1
-Ghost of the Leland Brothers,Ghost,Soldier,Human,1,Urban,Louisiana,1
-The Mystery Machine,Possessed Object,Car,Vehicle,1,Urban,United States,1
-Ghost of Rufus Raucaus,Ghost,Phantom,Human,1,Urban,Nevada,0
-Roller Ghoster,Animal,Humanoid,Beast,1,Urban,United States,0
-Jungle Demons,Animal,Demon,Animal,1,Jungle,Malawi,0
-Motoshondu,Animal,Serpent,Sea-Monster,1,Island,United States,0
-Headless Snowman,Possessed Object,Headless,Snow-Man,1,Snow,United States,0
-Spaceman Swintons,Mechanical,Humanoid,Toy,1,Urban,United States,0
-Annabel Action Figure,Mechanical,Humanoid,Toy,1,Urban,United States,0
-Other Toys,Mechanical,Toy,Toy,1,Urban,United States,0
-Faceless Phantom,Ghost,Phantom,Human,1,Urban,California,0
-Undead,Ancient,Gladiator,Human,1,Rural,Italy,0
-Yowie Yahoo,Undead,Vampire,Human,1,Desert,Australia,0
-Dark Skull,Undead,Vampire,Human,1,Desert,Australia,0
-Stormy Weathers,Undead,Vampire,Human,1,Desert,Australia,0
-Lightning Strikes,Undead,Vampire,Human,1,Desert,Australia,0
-Baseball Specter,Ghost,Specter,Human,1,Urban,United States,2
-Ancient One,Magician,Mystic,Human,1,Urban,Japan,1
-30 Foot Shaggy,Animal,Giant,Human,1,Urban,Japan,1
-Mummy of Pharaoh Scamses,Undead,Mummy,Human,1,Desert,Egypt,3
-Zombies,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombies,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombies,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombies,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombie Fred,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombie Daphnie,Undead,Zombie,Human,1,Desert,Egypt,3
-Zombie Velma,Undead,Zombie,Human,1,Desert,Egypt,3
-Gusano Grande,Animal,Giant,Worm,1,Desert,Mexico,5
-Chupacabra,Animal,Humanoid,Chupacabra,1,Rural,Mexico,1
-Paco,Animal,Bird,Parrot,1,Rural,Mexico,1
-Quetzalcoatl,Mythical,Dragon,Dragon,1,Rural,Mexico,1
-Jaguar Statues,Possessed Object,Statue,Jaguar,1,Rural,Mexico,1
-Aztec Giant Statue,Possessed Object,Statue,Human,1,Rural,Mexico,1
-Ghost of Señor Otero,Ghost,Phantom,Human,1,Rural,Mexico,1
-Skeleton Man,Undead,Skeleton,Human,1,Rural,Mexico,1
-Jeevens,Mechanical,Robot,Robot,1,Rural,United States,1
-Shari,Mechanical,Computer,Computer,1,Rural,United States,1
-Baron Fortescu,Undead,Vampire,Human,1,Rural,Romania,1
-Scarecrows,Possessed Object,Scarecrow,Human,1,Rural,United States,0
-Ghost of Hank Banning,Ghost,Phantom,Human,1,Rural,United States,0
-Cat Creature,Animal,Humanoid,Cat,1,Urban,United States,1
-San Franpsycho,Ancient,Convict,Human,1,Urban,California,0
-Invisible Man,Disguised,Invisible,Human,1,Snow,Canada,0
-Scooby Snack Monster,Possessed Object,Humanoid,Scooby Snack,1,Urban,Ohio,0
-Scooby Snack Monster,Possessed Object,Humanoid,Scooby Snack,1,Urban,Ohio,0
-Glasburgh Dragon,Mythical,Dragon,Dragon,1,Rural,Scotland,1
-Fish Creature,Animal,Humanoid,Fish,1,Snow,Antarctica,1
-Wakumi,Animal,Giant,Bird,1,Desert,New Mexico,1
-Shaman,Ancient,Shaman,Human,1,Desert,New Mexico,1
-Masked Figure,Disguised,Scientist,Human,1,Urban,United States,5
-Pterodactyl Ghost,Animal,Dinosaur,Pterodactyl,1,Urban,United States,5
-Black Knight Ghost,Possessed Object,Suit,Human,1,Urban,United States,5
-Cotton Candy Glob,Possessed Object,Candy,Cotton Candy,1,Urban,United States,5
-Tar Monster,Possessed Object,Tar,Tar,1,Urban,United States,5
-Minder 49er,Ancient,Miner,Human,1,Urban,United States,5
-Captain Cutler's Ghost,Possessed Object,Suit,Human,1,Urban,United States,5
-Zombie,Undead,Zombie,Human,1,Urban,United States,5
-10000 Volt Ghost,Ghost,Electric,Human,1,Urban,United States,5
-Skeleton Men,Undead,Skeleton,Human,1,Urban,United States,5
-Skeleton Men,Undead,Skeleton,Human,1,Urban,United States,5
-Centaur,Mythical,Beast,Centaur,1,Rural,Greece,0
-Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,0
-Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,0
-Creepy Keeper,Undead,Lighthouse Keeper,Human,1,Rural,Wisconsin,1
-Skeleton Crew,Undead,Skeleton,Human,1,Rural,Wisconsin,1
-Sheriff,Mechanical,Cowboy,Human,1,Desert,Arizona,5
-Cold Steel,Mechanical,Cowboy,Human,1,Desert,Arizona,5
-Other Robot Cowboys,Mechanical,Cowboy,Human,1,Desert,Arizona,5
-Wiki-Tiki,Ancient,Hawaiian,Human,1,Island,Hawaii,0
-Tiny Tikis,Ancient,Hawaiian,Human,1,Island,Hawaii,0
-Clone Fred,Mechanical,Clone,Human,1,Urban,United States,5
-Clone Daphnie,Mechanical,Clone,Human,1,Urban,United States,5
-Clone Velma,Mechanical,Clone,Human,1,Urban,United States,5
-Clone Shaggy,Mechanical,Clone,Human,1,Urban,United States,5
-Clone Scooby,Mechanical,Clone,Human,1,Urban,United States,5
-Titanic Twist,Undead,Deformed,Human,1,Desert,United States,1
-Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,France,1
-Demon Farmer,Undead,Farmer,Human,1,Rural,United States,0
-Frozen Fiend,Undead,Ice,Human,1,Urban,Russia,0
-Menacing Metallic Clown,Mechanical,Clown,Human,1,Rural,United States,0
-Toxic Terror,Possessed Object,Humanoid,Toxic,1,Forest,United States,
-Dragon,Mythical,Dragon,Dragon,1,Urban,Hong Kong,5
-Skeleton Driver,Undead,Skeleton,Human,1,Urban,United States,0
-Gold Monster,Possessed Object,Humanoid,Gold,1,Rural,Kentukey,0
-Coral Creature,Plant,Humanoid,Coral,1,Coast,Australia,2
-Sand Monsters,Possessed Object,Sand,Human,1,Coast,Australia,2
-Ghost of Cleopatra,Undead,Mummy,Human,1,Desert,Egypt,1
-Army of the Undead,Undead,Mummy,Human,1,Desert,Egypt,1
-Spirit of the Sand,Animal,Giant,Scorpion,1,Desert,Egypt,1
-Osomons,Animal,Little,Osomons,1,Urban,California,0
-Cptn. Skunk Beard,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,5
-Wooden Wally,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,5
-Sea Salt Sally,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,5
-Cptn. Skunk Beard's Crew,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,5
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2
-Agent 1,Disguised,Agent,Human,1,Urban,United States,2
-Agent 2,Disguised,Agent,Human,1,Urban,United States,2
-Agent 3,Disguised,Agent,Human,1,Urban,United States,2
-Agent 4,Disguised,Agent,Human,1,Urban,United States,2
-Agent 5,Disguised,Agent,Human,1,Urban,United States,2
-Agent 6,Disguised,Agent,Human,1,Urban,United States,2
-Agent 7,Disguised,Agent,Human,1,Urban,United States,2
-Agent,Disguised,Agent,Human,1,Urban,United States,2
-8,Disguised,Agent,Human,1,Urban,United States,2
-Agent,Disguised,Agent,Human,1,Urban,United States,2
-9,Disguised,Agent,Human,1,Urban,United States,2
-Agent 10,Disguised,Agent,Human,1,Urban,United States,2
-Agent 11,Disguised,Agent,Human,1,Urban,United States,2
-Agent 12,Dr. Trebal,Doctor,Human,1,Urban,United States,2
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Snow,Switzerland,
-Agent 3,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 4,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 5,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 6,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 7,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent,Disguised,Agent,Human,1,Snow,Switzerland,
-9,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 10,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 11,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 12,Disguised,Agent,Human,1,Snow,Switzerland,
-Agent 13,Dr. Trebal,Doctor,Human,1,Snow,Switzerland,
-Dr. Trebal,Super-Villain,Agent,Human,1,Snow,Switzerland,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 3,Disguised,Agent,Human,1,Urban,United States,
-Agent 8,Disguised,Agent,Human,1,Urban,United States,
-Agent 11,Disguised,Agent,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-A.R.T.,Mechanical,Robot,Object,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Kevin,Mechanical,Computer,Object,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Space,Space,
-Agent 1,Disguised,Agent,Human,1,Space,Space,
-Agent 2,Disguised,Agent,Human,1,Space,Space,
-Agent 3,Disguised,Agent,Human,1,Space,Space,
-Agent 4,Disguised,Agent,Human,1,Space,Space,
-Agent 7,Disguised,Agent,Human,1,Space,Space,
-Agent 10,Disguised,Agent,Human,1,Space,Space,
-Agent 11,Disguised,Agent,Human,1,Space,Space,
-Agent 12,Disguised,Agent,Human,1,Space,Space,
-Agent 13,Disguised,Agent,Human,1,Space,Space,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Space,Space,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Jungle,South America,
-Bruce,Super-Villain,Poacher,Human,1,Jungle,South America,
-Brucey,Super-Villain,Poacher,Human,1,Jungle,South America,
-Agent 13,Disguised,Agent,Human,1,Jungle,South America,
-Mark,Super-Villain,Nerd,Human,1,Jungle,South America,
-Ricky,Super-Villain,Nerd,Human,1,Jungle,South America,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Jungle,South America,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Forest,United States,
-Agent 4,Disguised,Agent,Human,1,Forest,United States,
-Agent 13,Disguised,Agent,Human,1,Forest,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,New York,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,New York,
-Chef Suki Sukihari,Super-Villain,Chef,Human,1,Urban,New York,
-Agent 2,Disguised,Agent,Human,1,Urban,New York,
-Agent 5,Disguised,Agent,Human,1,Urban,New York,
-Agent 8,Disguised,Agent,Human,1,Urban,New York,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Rural,United States,0
-Dr. Trebla,Super-Villain,Doctor,Human,1,Rural,United States,0
-Agent 1,Disguised,Agent,Human,1,Rural,United States,0
-Agent 2,Disguised,Agent,Human,1,Rural,United States,0
-Mark,Super-Villain,Nerd,Human,1,Rural,United States,0
-Ricky,Super-Villain,Nerd,Human,1,Rural,United States,0
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Rural,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Rural,United States,
-Dr. Speed,Super-Villain,Doctor,Human,1,Rural,United States,
-Agent 1,Disguised,Agent,Human,1,Rural,United States,
-Agent 2,Disguised,Agent,Human,1,Rural,United States,
-Agent 5,Disguised,Agent,Human,1,Rural,United States,
-Agent 6,Disguised,Agent,Human,1,Rural,United States,
-Agent 8,Disguised,Agent,Human,1,Rural,United States,
-Agent 11,Disguised,Agent,Human,1,Rural,United States,
-Agent 12,Disguised,Agent,Human,1,Rural,United States,
-Agent 13,Disguised,Agent,Human,1,Rural,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Desert,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Desert,United States,
-Agent 1,Disguised,Agent,Human,1,Desert,United States,
-Agent 2,Disguised,Agent,Human,1,Desert,United States,
-Mark,Super-Villain,Nerd,Human,1,Desert,United States,
-Ricky,Super-Villain,Nerd,Human,1,Desert,United States,
-Agent,Disguised,Agent,Human,1,Desert,United States,
-4,Disguised,Agent,Human,1,Desert,United States,
-Agent 7,Disguised,Agent,Human,1,Desert,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Menace,Super-Villain,Wrestler,Human,1,Urban,United States,
-Mr. Invisible,Super-Villain,Invisible,Human,1,Urban,United States,
-Cat Lady,Super-Villain,Super-Villain,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Abominable Snowman,Animal,Yeti,Ice-Monster,1,Mountain,Tibet,0
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 5,Disguised,Agent,Human,1,Urban,United States,
-Agent 6,Disguised,Agent,Human,1,Urban,United States,
-Agent 7,Disguised,Agent,Human,1,Urban,United States,
-Agent 9,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Menace,Super-Villain,Wrestler,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 3,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Agent 5,Disguised,Agent,Human,1,Urban,United States,
-Agent 6,Disguised,Agent,Human,1,Urban,United States,
-Agent 8,Disguised,Agent,Human,1,Urban,United States,
-Agent 9,Disguised,Agent,Human,1,Urban,United States,
-Dr Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Island,United States,
-Agent 1,Disguised,Agent,Human,1,Island,United States,
-Agent 2,Disguised,Agent,Human,1,Island,United States,
-Agent 3,Disguised,Agent,Human,1,Island,United States,
-Agent 4,Disguised,Agent,Human,1,Island,United States,
-Agent 5,Disguised,Agent,Human,1,Island,United States,
-Agent 7,Disguised,Agent,Human,1,Island,United States,
-Agent 8,Disguised,Agent,Human,1,Island,United States,
-Agent 9,Disguised,Agent,Human,1,Island,United States,
-Agent 11,Disguised,Agent,Human,1,Island,United States,
-Agent 12,Disguised,Agent,Human,1,Island,United States,
-Agent 13,Disguised,Agent,Human,1,Island,United States,
-Dr Trebla,Super-Villain,Doctor,Human,1,Island,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Clown Phibes,Super-Villain,Clown,Human,1,Urban,United States,
-Evil Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Peekaboo Phibes,Super-Villain,Playful,Human,1,Urban,United States,
-Klepto Phibes,Super-Villain,Burglar,Human,1,Urban,United States,
-Kung Fu Phibes,Super-Villain,Kung Fu,Human,1,Urban,United States,
-Pirate Phibes,Super-Villain,Pirate,Human,1,Urban,United States,
-Pantsing Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Ocean,Mexico,
-Agent 1,Disguised,Agent,Human,1,Ocean,Mexico,
-Agent 2,Disguised,Agent,Human,1,Ocean,Mexico,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Ocean,Mexico,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Evil Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 3,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Agent 13,Disguised,Agent,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Rusty,Animal,Werewolf,Human,1,Urban,United States,
-Bacon,Animal,Pig,Pig,1,Urban,United States,
-Mummy,Undead,Mummy,Human,1,Urban,United States,
-Frankenstein,Undead,Frankenstin's Monster,Human,1,Urban,United States,
-Dracula,Undead,Vampire,Human,1,Urban,United States,
-Swamp Monster,Animal,Swamp Monster,Swamp-Monster,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 3,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Agent 7,Disguised,Agent,Human,1,Urban,United States,
-Agent 8,Disguised,Agent,Human,1,Urban,United States,
-Agent 9,Disguised,Agent,Human,1,Urban,United States,
-Agent 11,Disguised,Agent,Human,1,Urban,United States,
-Agent 13,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 3,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Agent 8,Disguised,Agent,Human,1,Urban,United States,
-Agent 9,Disguised,Agent,Human,1,Urban,United States,
-Agent 11,Disguised,Agent,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Desert,Texas,
-Agent 1,Disguised,Agent,Human,1,Desert,Texas,
-Agent 2,Disugised,Agent,Human,1,Desert,Texas,
-Agent 4,Disguised,Agent,Human,1,Desert,Texas,
-Mark,Super-Villain,Nerd,Human,1,Desert,Texas,
-Ricky,Super-Villain,Nerd,Human,1,Desert,Texas,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Desert,Texas,
-Menace,Animal,Bull,Bull,1,Desert,Texas,
-Super Bulls,Animal,Giant,Rooster,1,Desert,Texas,
-Zoinks,Mechanical,Dog,Robot,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Groovy Don,Mechanical,Hippy,Robot,1,Urban,United States,
-Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,
-Agent 1,Disguised,Agent,Human,1,Urban,United States,
-Agent 2,Disguised,Agent,Human,1,Urban,United States,
-Agent 4,Disguised,Agent,Human,1,Urban,United States,
-Agent 5,Disguised,Agent,Human,1,Urban,United States,
-Agent 13,Disguised,Agent,Human,1,Urban,United States,
-Agent 21,Disguised,Agent,Human,1,Urban,United States,
-Agent 44,Disguised,Agent,Human,1,Urban,United States,
-Agent 89,Disguised,Agent,Human,1,Urban,United States,
-Mark,Super-Villain,Nerd,Human,1,Urban,United States,
-Ricky,Super-Villain,Nerd,Human,1,Urban,United States,
-Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,
-Amazing Krudsky,Mythical,Wizard,Human,1,Urban,United States,5
-Glob,Mythical,Goblin,Goblin,1,Urban,United States,5
-Glum,Mythical,Goblin,Goblin,1,Urban,United States,5
-Headless Horseman,Undead,Headless,Human,1,Urban,United States,5
-Goblin King,Mythical,Goblin,Goblin,1,Urban,United States,5
-Goblins,Mythical,Goblin,Goblin,1,Urban,United States,5
-Black Samurai,Ghost,Samurai,Human,1,Urban,Japan,5
-Ninjas,Disguised,Ninja,Human,1,Urban,Japan,5
-Specter,Disguised,Specter,Human,1,Urban,Ohio,5
-Ezekial Gallows,Undead,Ghost,Human,1,Urban,Ohio,5
-Prudence Prufrock,Undead,Ghost,Human,1,Urban,Ohio,5
-Gryphon,Mythical,Griffin,Griffin,1,Forest,United States,0
-Banshee,Mythical,Banshee,Banshee,1,Forest,United States,0
-Slime Mutant,Possessed Object,Slime,Slime-Monster,1,Urban,California,4
-Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,0
-Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,0
-Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,0
-Ghost Truck,Possessed Object,Truck,Truck,1,Urban,California,0
-Man-Crab,Animal,Humanoid,Crab,1,Coast,California,1
-Que Horrifico,Ancient,Pupeteer,Human,1,Urban,California,0
-Spookified Kids,Possessed,Kid,Human,1,Urban,California,0
-Ghost Girl,Ghost,Ghost,Human,1,Urban,California,0
-Phantom,Ghost,Phantom,Human,1,Urban,California,1
-Gnome,Mythical,Gnome,Human,1,Forest,California,1
-Green Humungonaut,Animal,Humanoid,Ape,1,Urban,California,0
-Red Humungonaut,Animal,Humanoid,Ape,1,Urban,California,0
-Woodsman,Undead,Zombie,Human,1,Forest,United States,3
-Fishman,Animal,Humanoid,Fish,1,Forest,United States,3
-Specter of Shadow Canyon,Undead,Specter,Human,1,Forest,United States,3
-Fright Hound,Mechanical,Robot,Hound,1,Urban,California,1
-Vampire,Undead,Vampire,Human,1,Urban,California,0
-Char Gar Gothakon,Extraterrestrial,Humanoid,Squid,1,Urban,California,0
-Cicada Creature,Animal,Insect,Cicada,1,Urban,California,1
-Wanda Grubwort,Magician,Witch,Human,1,Urban,Ohio,3
-Lake Monsters,Animal,Humanoid,Frog,1,Urban,Ohio,3
-Lord Infernicus,Undead,Skeleton,Human,1,Urban,California,4
-Shadowy Orc,Mythical,Orc,Orc,1,Urban,California,2
-Aphrodite,Mythical,Pupeteer,Human,1,Urban,California,4
-Danny Darrow,Ancient,Hermit,Human,1,Urban,California,5
-White Wizard,Magician,Wizard,Human,1,Urban,California,0
-Nightfright,Mythical,Demon,Demon,1,Urban,California,0
-Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,5
-Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,5
-Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,5
-Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,5
-Manticore,Mythical,Manticore,Manticore,1,Urban,California,0
-Headless Horror,Ancient,Humanoid,Jungle-Monster,1,Urban,California,0
-Shadowy Figure,Ghost,Shadow,Human,1,Urban,California,0
-Ghost of Dead Justice,Ghost,Sheriff,Human,1,Urban,California,0
-Obliteratrix,Undead,Assassin,Human,1,Urban,California,3
-Freak of Crystal Cove,Ancient,Humanoid,Beast,1,Urban,California,0
-Phantosaurs,Ghost,Dinosaur,Appalachiosaurus,1,Desert,United States,0
-Velociraptor,Ancient,Dinosaur,Velociraptor,1,Desert,United States,0
-Lord Valdronya,Undead,Vampire,Human,1,Swamp,Louisiana,1
-Fortius,Possessed Object,Statue,Human,1,Urban,England,0
-Crybaby Clown,Disguised,Clown,Human,1,Urban,California,0
-Baba Yaga House,Possessed Object,House,House,1,Forest,California,0
-Baba Yaga,Magician,Witch,Human,1,Forest,California,0
-Crybaby Clown,Disguised,Clown,Human,1,Urban,California,1
-Dreamweaver,Magician,Wizard,Human,1,Urban,California,0
-Hodag of Horror,Animal,Beast,Beast,1,Urban,California,0
-Junk,Mechanical,Trash,Trash,1,Urban,California,0
-Graveyard Ghoul,Undead,Ghoul,Human,1,Rural,California,0
-Dark Lilith,Mythical,Demon,Demon,1,Desert,California,0
-Hebediah Grim,Undead,Zombie,Human,1,Forest,California,0
-Fiend,Mythical,Anubis,Human,1,Mountain,United States,0
-Kriegstaffebot,Mechanical,Soldier,Robot,1,Ocean,California,0
-Ghost of Abigail Gluck,Ghost,Ghost,Human,1,Ocean,California,0
-Scarebear,Animal,Mutant,Bear,1,Forest,California,0
-Krampus,Mythical,Beast,Krampus,1,Urban,California,0
-Dragon,Mechanical,Dragon,Dragon,1,Island,United States,1
-Mummy of Friar Serra,Undead,Mummy,Human,1,Urban,United States,0
-Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,0
-Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,0
-Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,0
-Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,0
-Sinister Snowman,Possessed Object,Snow-Man,Snow-Man,1,Urban,United States,3
-Mr. Hyde,Super-Villain,Split-Personality,Human,1,Urban,California,0
-Grey Alien,Extraterrestrial,Alien,Alien,1,Urban,California,0
-Reptiod,Animal,Humanoid,Reptile,1,Urban,California,0
-Nordic Alien,Extraterrestrial,Alien,Alien,1,Urban,California,0
-Skull Cattles,Undead,Skeleton,Bull,1,Rural,California,0
-Skull Cattle Queen,Undead,Skeleton,Bull,1,Rural,California,0
-Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,3
-Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,3
-Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,3
-Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,3
-Gluton Demon,Mythical,Demon,Demon,1,Urban,California,0
-Dandy Highwayman,Disguised,Highwayman,Human,1,Urban,California,1
-Evil Fred,Disguised,Clone,Human,1,Urban,California,1
-Evil Daphnie,Disguised,Clone,Human,1,Urban,California,1
-Monstrous Freak,Animal,Humanoid,Beast,1,Rural,California,0
-Priestess,Magician,Shaman,Human,1,Jungle,Mexico,0
-Kriegstaffebot,Mechanical,Soldier,Robot,1,Cave,California,0
-Evil Entity,Mythical,Evil,Element,1,Cave,California,0
-Evil Entity,Mythical,Evil,Element,1,Urban,California,1
-Minions,Ancient,Humanoid,Human,1,Urban,California,1
-Ye Phantom Parrot,Animal,Parrot,Bird,1,Island,United States,2
-Ghost of Gnarlybeard,Undead,Pirate,Human,1,Island,United States,2
-Phantom,Ghost,Phantom,Human,1,Urban,Illinois,0
-Cornfield Clem,Possessed Object,Scarecrow,Scarecrow,1,Rural,United States,0
-Mecha Mutt,Mechanical,Robot,Hound,1,Urban,United States,0
-Ghost Bear,Ghost,Bear,Bear,1,Forest,United States,0
-Eshu,Animal,Humanoid,Beast,1,Urban,Brazil,0
-Ghost of the Baron,Ghost,Baron,Human,1,Rural,Pennsylvania,5
-Frankencreep,Undead,Frankenstein's Monster,Chimera,1,Rural,Pennsylvania,5
-Alien,Extraterrestrial,Extraterrestrial,Alien,1,Urban,Moon,0
-Sea Monster,Possessed Object,Elemental,Water,1,Coast,Florida,0
-Witch,Magician,Witch,Human,1,Urban,United States,0
-KISS Monsters,Possessed Object,Statue,Human,1,Urban,United States,0
-Harpies,Mythical,Harpy,Harpy,1,Urban,United States,0
-The Destroyer,Demon,Demon,Demon,1,Urban,United States,0
-Ghost of Elias Kingston,Ghost,Ghost,Human,1,Urban,United States,0
-Spirit of the Zatari Warrior,Ancient,Spirit,Human,1,Cave,United States,0
-Sea Creature,Animal,Humanoid,Sea-Monster,1,Ocean,United States,0
-Sea Creature,Animal,Humanoid,Sea-Monster,1,Ocean,United States,0
-Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,United States,0
-Ghost of Chip Braverton,Ghost,Ghost,Human,1,Urban,United States,0
-Sobek,Mythical,Humanoid,Crocodile,1,Urban,United States,0
-Crystal Crawler,Animal,Humanoid,Cave-Monster,1,Cave,United States,0
-Headless Count,Undead,Headless,Human,1,Rural,United States,2
-Ghost of the Prima Donna,Ghost,Ghost,Human,1,Urban,United States,0
-Yeti,Animal,Yeti,Yeti,1,Urban,United States,0
-Butler 3000,Mechanical,Robot,Robot,1,Urban,United States,0
-Alien,Extraterrestrial,Alien,Alien,1,Desert,Nevada,0
-Phantom,Ghost,Phantom,Human,1,Rural,United States,0
-Black Knight,Possessed Object,Suit,Object,1,Rural,United States,0
-Pterodactyl,Ancient,Dinosaur,Pterodactyl,1,Urban,United States,2
-Ghost of Stealin' Stan,Ghost,Prisoner,Human,1,Island,United States,0
-Gremlin,Mythical,Gremlin,Gremlin,1,Air,United States,0
-Sorcerer,Magician,Sorcerer,Human,1,Urban,United States,0
-Swamp Monster,Plant,Humanoid,Swamp-Monster,1,Swamp,Louisiana,0
-Snow Monster,Possessed Object,Snow-Man,Snow-Man,1,Snow,United States,0
-Headless Horseman,Undead,Headless,Human,1,Urban,California,0
-Mummy,Undead,Mummy,Human,1,Urban,California,0
-Zombie,Undead,Zombie,Human,1,Urban,California,0
-Giant,Mythical,Giant,Cyclops,1,Forest,Ireland,0
-Scarecrow,Possessed Object,Humanoid,Scarecrow,1,Rural,United States,0
-Scarecrow,Possessed Object,Humanoid,Scarecrow,1,Rural,United States,0
-Inferno,Undead,Skeleton,Demon,1,Island,United States,0
-Ghost of Dapper Jack Rogers,Ghost,Cowboy,Human,1,Desert,Texas,0
-Ghost of the Cliff Bride,Undead,Zombie,Human,1,Rural,United States,0
-Spirit of El Bandito,Undead,Skeleton,Human,1,Rural,Mexico,5
-Madcap the Killer Clown,Disguised,Clown,Human,1,Urban,United States,0
-Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,5
-Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,5
-Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,5
-Toxic Mutant,Undead,Mutant,Human,1,Urban,United States,0
-Ghost Pirate,Ghost,Pirate,Human,1,Coast,United States,5
-Ghost Pirate,Ghost,Pirate,Human,1,Coast,United States,5
-Dorsal Foot,Animal,Humanoid,Shark,1,Coast,United States,0
-Werewolf,Animal,Werewolf,Human,1,Forest,United States,0
-Jester Monster,Disguised,Jester,Human,1,Forest,United States,5
-Vampire,Undead,Vampire,Human,1,Rural,United States,0
-Houndbeast,Animal,Beast,Hound,1,Urban,New York,0
-Grim Reaper,Undead,Skeleton,Human,1,Rural,United States,0
-Mummy,Undead,Mummy,Human,1,Rural,United States,0
-Tengu,Mythical,Humanoid,Chicken,1,Rural,United States,0
-Tarasque,Mythical,Humanoid,Turtle,1,Rural,United States,0
-Tzitzimitl,Magician,Shaman,Human,1,Rural,United States,0
-Manticore,Mythical,Beast,Manticore,1,Rural,United States,0
-Haniver,Mythical,Beast,Beast,1,Rural,United States,0
-Hemogoblin,Mythical,Goblin,Goblin,1,Rural,United States,0
-Baba Yaga,Magician,Witch,Human,1,Urban,United States,0
-Baba Yaga House,Possessed Object,House,House,1,Urban,United States,0
-Kaniaku,Animal,Demon,Crab,1,Urban,Japan,5
-Ghost of Amos Littlefield,Ghost,Ghost,Human,1,Urban,United States,0
-Ghost of Jacob Marley,Ghost,Ghost,Human,1,Urban,England,0
-Ghost of Christmas Past,Ghost,Ghost,Human,1,Urban,England,0
-Ghost of Christmas Present,Ghost,Ghost,Human,1,Urban,England,0
-Ghost of Christmas Future,Ghost,Ghost,Human,1,Urban,England,0
-Space Kook,Extraterrestrial,Humanoid,Alien,1,Space,Space,1
-Ghost of Mother,Undead,Zombie,Human,1,Snow,United States,0
-Ghost of Archie Barnes,Ghost,Ghost,Human,1,Rural,California,0
-Mutant Rabbit,Animal,Giant,Rabbit,1,Urban,United States,0
-Arachne,Mythical,Humanoid,Spider,1,Rural,Greece,3
-Crimson Cloak,Ghost,Phantom,Human,1,Urban,United States,0
-Plant Monster,Plant,Humanoid,Bush,1,Urban,United States,0
-Minus,Disguised,Mutant,Human,1,Urban,United States,0
-The Mystery Machine,Possessed Object,Car,Vehicle,1,Desert,United States,0
-Ice Man,Ancient,Caveman,Human,1,Snow,United States,5
-Ape Man,Animal,Half-Human,Ape,1,Urban,Florida,0
-Trash Monster,Mechanical,Robot,Robot,1,Rural,United States,0
-Ghost Chef,Ghost,Chef,Human,1,Urban,California,0
-Demon of Salem,Mythical,Demon,Demon,1,Rural,Massachusetts,5
-Professor Huh?,Disguised,Random,Human,1,Urban,United States,0
-Professor Huh?,Disguised,Random,Human,1,Urban,United States,0
-Pizza O'Possum,Mechanical,Robot,Rat,1,Urban,United States,0
-Half-Beard's Ghost,Ghost,Pirate,Human,1,Cave,United States,0
-Phantasm,Undead,Phantasm,Human,1,Rural,United States,0
-Ghost Kid,Undead,Ghost,Human,1,Rural,United States,0
-Red Ghost,Ghost,Phantom,Human,1,Rural,Rhode Island,0
-Living Tree,Plant,Tree,Tree,1,Rural,United States,
-Asmodeus,Mythical,Demon,Demon,1,Mountain,Tibet,0
-Swamp Monster,Animal,Humanoid,Swamp-Monster,1,Swamp,Florida,0
-Civil War Zombie Ghosts,Ghost,Soldier,Human,1,Rural,Pennsylvania,0
-Fish Monster,Animal,Humanoid,Fish,1,Urban,United States,0
-Screaming Skulls of London,Ghost,Skulls,Skull,1,Urban,England,5
-Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,0
-Werecat Simone Lenoir,Animal,Werecat,Werecat,1,Swamp,Louisiana,0
-Werecat Lena Dupree,Animal,Werecat,Werecat,1,Swamp,Louisiana,0
-Werecat Jacques,Animal,Werecat,Werecat,1,Swamp,Louisiana,0
-Werecat,Animal,Werecat,Werecat,1,Swamp,Louisiana,0
-Cat Mummy,Undead,Mummy,Cat,1,Urban,England,0
-Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,0
-Ghost of Madds Markson,Undead,Ghost,Human,1,Urban,Nevada,0
-Madds Markson Monster,Animal,Mutant,Bunny,1,Urban,Nevada,0
-Technomancer,Magician,Technomancer,Human,1,Urban,Illinois,0
-Spectral Speedster,Ghost,Humanoid,Monster,1,Rural,United States,0
-Dinosaur,Animal,Allosaurus,Dinosaur,1,Forest,United States,0
-Dinosaur,Animal,Ceratosarus,Dinosaur,1,Forest,United States,0
-Sia Doppelganger,Disguised,Sia,Human,1,Urban,California,0
-Pazzo the Ghost Clown,Ghost,Clown,Human,1,Urban,Georgia,1
-Man-Bat,Animal,Humanoid,Bat,1,Urban,United States,5
-Control Freak,Super-Villain,Obese,Human,1,Urban,United States,0
-Rotten Robots,Mechanical,Robot,Robot,1,Urban,California,4
-Dick Dastardly,Super-Villain,Cartoon Villain,Human,1,Urban,California,4
-Muttley,Animal,Cartoon Villain,Hound,1,Urban,California,4
-Cerberus,Mythical,Cerberus,Hound,1,Urban,California,4
-Nightmare Ghost,Ghost,Nightmare,Human,1,Snow,Pennsylvania,3
-Fox Monster,Animal,Giant,Fox,1,Rural,Japan,5
-Miner Forty-Niner,Ancient,Miner,Human,1,Rural,United States,3
-Ghost of Captain Cutler,Ghost,Suit,Human,1,Rural,United States,3
-Spooky Space Kook,Extraterrestrial,Phantom,Alien,1,Rural,United States,3
-Snow Ghost,Animal,Ghost,Snow-Monster,1,Rural,United States,3
-Clown,Disguised,Clown,Human,1,Rural,United States,3
-Ghost of Redbeard,Ghost,Pirate,Human,1,Rural,United States,3
-Back Knight,Possessed Object,Suit,Object,1,Rural,United States,3
-Witch,Magician,Witch,Human,1,Rural,United States,3
-Witch Doctor,Magician,Shaman,Human,1,Rural,United States,3
-Phantom,Ghost,Phantom,Human,1,Rural,United States,3
-Creeper,Undead,Zombie,Human,1,Rural,United States,3
-Giant Teddy Bear,Possessed Object,Giant,Teddy Bear,1,Rural,United States,3
-Ghost of the Doom Bringer,Possessed Object,Suit,Suit,1,Urban,California,0
-Gator Man Monster,Animal,Humanoid,Alligator,1,Urban,New York,0
-Fire Monster of Mount Etna,Animal,Humanoid,Fire-Monster,1,Urban,Italy,0
-Crazy Carl,Possessed Object,Humanoid,Puppet,1,Rural,United States,0
-Ghost of Madame Zobrinsky,Ghost,Ghost,Human,1,Urban,Pennsylvania,0
-Wedding Witch of Wainsly Hall,Magician,Witch,Human,1,Swamp,United States,0
-Chronobeast,Animal,Humanoid,Chronobeast,1,Desert,United States,0
-Robo Dooby Doo,Mechanical,Robot,Hound,1,Desert,United States,0
-Ghost of Ester Moonkiller,Ghost,Ghost,Human,1,Urban,Ohio,0
-Werewolf,Animal,Werewolf,Human,1,Urban,United States,0
-Tardigrade Monster,Animal,Giant,Tardigrade,1,Space,Space,0
-Ghost of Tallis Taggert,Ghost,Captain,Human,1,Urban,Tennessee,0
-Ghost of Jean Lebeau,Ghost,Prisoner,Human,1,Rural,United States,0
-Phineas Phrag Monster,Animal,Humanoid,Beast,1,Rural,United States,0
-Gnarled One,Plant,Living,Tree,1,Urban,Illinois,0
-Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,France,0
-Frankenfooder Monster,Possessed Object,Humanoid,Fruit,1,Forest,Germany,0
-Elevator Operator Ghost,Ghost,Ghost,Human,1,Urban,United States,0
-Snow Devil,Animal,Yeti,Yeti,1,Snow,Austria,0
-Caveman,Ancient,Caveman,Human,1,Mountain,Colorado,0
-Robot,Mechanical,Robot,Robot,1,Urban,Kentucky,0
-Ghost of Charles M. Thraber,Ghost,Ghost,Human,1,Rural,United States,0
-Zombie Mascot,Undead,Zombie,Yak,1,Urban,Washington,0
-Hyde Monster,Disguised,Split-Personality,Human,1,Urban,California,0
-Mummy,Undead,Mummy,Human,1,Urban,California,0
-Dinosaur,Animal,Dinosaur,Dinosaur,1,Urban,California,0
-Giant Manta Ray,Animal,Giant,Manta Ray,1,Urban,California,0
-Alpha Jackal-Lantern,Plant,Giant,Pumpkin,1,Rural,California,0
-Jackal-Lanterns,Plant,Mutant,Pumpkin,1,Rural,California,0
-Morgan le Fay,Magician,Sorceress,Human,1,Rural,England,1
-Black Knight,Possessed Object,Suit,Object,1,Rural,England,1
-Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,3
-Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,3
-Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,3
-Max Kilobyte,Mechanical,Genius,Robot,1,Urban,California,0
+monster_name,monster_type,monster_subtype,monster_species,monster_amount,setting_terrain,setting_country_state,date_aired,danger
+Black Knight,Possessed Object,Suit,Object,1,Urban,United States,1969-09-13,0
+Ghost of Cptn. Cuttler,Ghost,Suit,Human,1,Coast,United States,1969-09-20,3
+Phantom,Ghost,Phantom,Human,1,Island,United States,1969-09-27,0
+Miner 49'er,Ancient,Miner,Human,1,Cave,California,1969-10-04,0
+Indian Witch Doctor,Ancient,Witch Doctor,Human,1,Desert,United States,1969-10-11,1
+Ghost of Elias Kingston,Ghost,Phantom,Human,1,Urban,United States,1969-10-18,0
+Ape Man,Animal,Half-Human,Ape,1,Desert,United States,1969-10-25,0
+Charlie the Robot,Mechanical,Humanoid,Robot,1,Urban,United States,1969-11-01,0
+Puppet Master,Ghost,Pupeteer,Human,1,Urban,United States,1969-11-08,0
+Ghost Clown,Ghost,Clown,Human,1,Forest,United States,1969-11-15,3
+Werewolf,Animal,Werewolf,Human,1,Forest,United States,1969-11-22,1
+Dracula,Undead,Vampire,Human,1,Forest,United States,1969-11-22,1
+Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Forest,United States,1969-11-22,1
+Mummy of Ankha,Undead,Mummy,Human,1,Urban,United States,1969-11-29,1
+Zombie,Undead,Zombie,Human,1,Swamp,United States,1969-12-06,1
+Witch,Magician,Witch,Human,1,Swamp,United States,1969-12-06,1
+Ghost of Redbeard,Ghost,Pirate,Human,1,Ocean,United States,1969-12-13,5
+Spooky Space Kook,Extraterrestrial,Phantom,Alien,1,Rural,United States,1969-12-20,0
+Green Ghost,Ghost,Phantom,Human,1,Island,United States,1970-01-10,2
+Green Ghost,Ghost,Phantom,Human,1,Island,United States,1970-01-10,2
+Snow Ghost,Ghost,Snow,Yeti,1,Snow,United States,1970-01-17,2
+Ghost of Mr. Hyde,Ghost,Split-Personality,Human,1,Forest,United States,1970-09-12,1
+Ghost of Zen Tuo,Ghost,Zombie,Human,1,Urban,California,1970-09-19,5
+Scare Pair,Ghost,Zombie,Human,1,Urban,California,1970-09-19,5
+Scare Pair,Ghost,Zombie,Human,1,Urban,California,1970-09-19,5
+Caveman,Ancient,Caveman,Human,1,Urban,United States,1970-09-26,3
+Creeper,Ghost,Phantom,Human,1,Rural,United States,1970-10-03,0
+Headless Specter,Ghost,Headless,Human,1,Rural,United States,1970-10-10,0
+Witch Doctor,Ancient,Witch Doctor,Human,1,Jungle,Hawaii,1970-10-17,0
+Mano Tiki Tia,Possessed Object,Statue,Object,1,Jungle,Hawaii,1970-10-17,0
+Werewolf,Animal,Werewolf,Human,1,Rural,United States,1970-10-24,3
+Wax Phantom,Ghost,Statue,Human,1,Urban,United States,1970-10-31,5
+Giant Bat,Animal,Bat,Bat,1,Desert,United States,1972-09-09,3
+Geronimo,Ancient,Indian,Human,1,Desert,United States,1972-09-09,3
+Hooded Man,Disguised,Hooded,Human,1,Rural,United States,1972-09-16,0
+Skeletons,Skeleton,Humaniod,Human,1,Rural,United States,1972-09-16,0
+The Vulture,Animal,Bird,Vulture,1,Forest,United States,1972-09-23,0
+Scarecrow,Possessed Object,Scarecrow,Human,1,Rural,United States,1972-09-30,0
+Ghost of Captain Moody,Ghost,Phantom,Human,1,Forest,United States,1972-10-07,0
+Ghost of Captain Moody,Ghost,Phantom,Human,1,Forest,United States,1972-10-07,0
+The Gargoyle,Possessed Object,Statue,Gargoyle,1,Forest,United States,1972-10-14,0
+Phantoms,Ghost,Phantom,Human,1,Forest,United States,1972-10-14,0
+Phantoms,Ghost,Phantom,Human,1,Forest,United States,1972-10-14,0
+Ghost,Ghost,Phantom,Human,1,Urban,United States,1972-10-21,2
+Sheik,Disguised,Sheik,Human,1,Urban,United States,1972-10-21,2
+Mummy,Undead,Mummy,Human,1,Urban,United States,1972-10-21,2
+Pirate,Disguised,Pirate,Human,1,Urban,United States,1972-10-21,2
+Dragon,Animal,Dragon,Dragon,1,Urban,United States,1972-10-21,2
+Wolfman,Animal,Humanoid,Human,1,Urban,United States,1972-10-21,2
+Grizzly Bear,Animal,Bear,Bear,1,Urban,United States,1972-10-21,2
+Indian,Ancient,Indian,Human,1,Urban,United States,1972-10-21,2
+Mr. Hyde,Disguised,Split-Personality,Human,1,Urban,United States,1972-10-21,2
+Shark Men,Animal,Sea-Monster,Shark,1,Island,United States,1972-10-28,0
+Shark Men,Animal,Sea-Monster,Shark,1,Island,United States,1972-10-28,0
+Skeleton Man,Undead,Skeleton,Human,1,Desert,United States,1972-11-04,2
+Lady Ghost,Ghost,Phantom,Human,1,Desert,United States,1972-11-04,2
+3-Eyed Spook,Ghost,Phantom,Human,1,Desert,United States,1972-11-04,2
+Giant,Ghost,Phantom,Human,1,Desert,United States,1972-11-04,2
+Brontosaurus,Ancient,Brontosaurus,Dinosaur,1,Desert,United States,1972-11-04,2
+Headless Horsemen of Sleepy Hollow,Ghost,Headless,Human,1,Desert,United States,1972-11-04,2
+Skeleton Stage Driver,Ghost,Phantom,Human,1,Desert,United States,1972-11-04,2
+The Ghost of Bigfoot,Ghost,Half-Human,Big Foot,1,Snow,Vermont,1972-11-11,0
+Ghost of the Red Baron,Ghost,Pilot,Human,1,Rural,United States,1972-11-18,3
+Ghost of Redbeard,Ghost,Pirate,Human,1,Swamp,United States,1972-11-25,2
+Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,1972-11-25,2
+Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,1972-11-25,2
+Ghost of Redbeard's crew,Ghost,Pirate,Human,1,Swamp,United States,1972-11-25,2
+Haunted Horseman,Ghost,Horseman,Human,1,Rural,United States,1972-12-02,0
+Moat Monster,Animal,Amphibian,Frog,1,Rural,United States,1972-12-02,0
+Possessed Viking Mannequin,Possessed Object,Viking,Human,1,Urban,Tennessee,1972-12-09,0
+Possessed Davy Crockett Mannequin,Possessed Object,Soldier,Human,1,Urban,Tennessee,1972-12-09,0
+Dryad,Mythical,Tree,Dryad,1,Forest,United States,1972-12-16,1
+Troll,Mythical,Humanoid,Troll,1,Forest,United States,1972-12-16,1
+Sea Serpent,Mythical,Sea-Monster,Serpent,1,Rural,Massachusetts,1972-12-23,0
+Ghost of Paul Revere,Ghost,Phantom,Human,1,Rural,Massachusetts,1972-12-23,0
+Minuteman Ghost,Ghost,Phantom,Human,1,Rural,Massachusetts,1972-12-23,0
+Redcoat Ghost,Ghost,Phantom,Human,1,Rural,Massachusetts,1972-12-23,0
+Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,1973-09-08,0
+Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,1973-09-08,0
+Hooded Ghosts,Ghost,Phantom,Human,1,Island,United States,1973-09-08,0
+Ghost of Injun Joe,Ghost,Phantom,Human,1,Coast,Missouri,1973-09-15,5
+Ghost of Captain Scavenger,Ghost,Phantom,Human,1,Coast,Missouri,1973-09-15,5
+Jadal,Mythical,Phantom,Genie,1,Desert,Iran,1973-09-22,3
+Spirit of Fireball McPhan,Ghost,Phantom,Human,1,Urban,United States,1973-09-29,5
+Cat Creature,Animal,Humanoid,Human,1,Forest,California,1973-10-06,0
+Frankenstein,Undead,Frankenstein's Monster,Human,1,Forest,California,1973-10-06,0
+Creepy Man,Disguised,Creepy,Human,1,Forest,California,1973-10-06,0
+Ghost Bird,Animal,Headless,Bird,1,Forest,California,1973-10-06,0
+Unknown Exterminator,Disguise,Exterminator,Human,1,Forest,California,1973-10-06,0
+Ghostly Man,Ghost,Phantom,Human,1,Forest,California,1973-10-06,0
+Invisible Couple,Ghost,Phantom,Human,1,Forest,California,1973-10-06,0
+Sea Monster,Animal,Sea-Monster,Fish,1,Forest,California,1973-10-06,0
+Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,1973-10-13,5
+Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,1973-10-13,5
+Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,1973-10-13,5
+Windmakers,Disguised,Hooded,Human,1,Rural,Mississippi,1973-10-13,5
+Green Globs,Possessed Object,Humanoid,Human,1,Urban,United States,1973-10-20,0
+Green Globs,Possessed Object,Humanoid,Human,1,Urban,United States,1973-10-20,0
+Ghostly Strongman,Ghost,Phantom,Human,1,Rural,United States,1973-10-27,0
+Specter of Ebenezer Crabbe,Ghost,Phantom,Human,1,Urban,United States,1976-09-11,0
+Ghost of Netty Crabbe,Ghost,Phantom,Human,1,Urban,United States,1976-09-11,0
+"Mr. Hyde,Snitch","Disguised,Animal","Split-Personality,Split-Personality","Human,Hound",1,Urban,United States,1976-09-11,0
+Ghost of King Katazuma,Ghost,Phantom,Human,1,Rural,Mexico,1976-09-18,5
+Aztec Statue Monster,Possessed Object,Statue,Human,1,Rural,Mexico,1976-09-18,5
+Lowbrow,Super-Villain,Idiot,Human,1,Urban,United States,1976-09-18,5
+Lowbrow's Henchmen,Super-Villain,Henchman,Human,1,Urban,United States,1976-09-18,5
+Lowbrow's Henchmen,Super-Villain,Henchman,Human,1,Urban,United States,1976-09-18,5
+Ghost of Gator Ghoul,Ghost,Amphibian,Alligator,1,Swamp,Georgia,1976-09-25,0
+10000 Volt Ghost,Ghost,Electric,Human,1,Snow,United States,1976-10-02,0
+Headless Horseman,Ghost,Headless,Human,1,Rural,United States,1976-10-09,0
+Ghost of Merlin,Ghost,Witch,Human,1,Forest,United States,1976-10-16,2
+Black Knight,Possessed Object,Suit,Human,1,Forest,United States,1976-10-16,2
+Ghost of Dr. Coffin,Ghost,Phantom,Human,1,Forest,Canada,1976-10-23,0
+No-Face Zombie,Undead,Zombie,Human,1,Urban,United States,1976-10-30,0
+Gorilla,Animal,Beast,Gorilla,1,Urban,United States,1976-10-30,0
+Mamba Wamba,Ghost,Witch Doctor,Human,1,Swamp,United States,1976-11-06,0
+Zombie Lila,Undead,Zombie,Human,1,Swamp,United States,1976-11-06,0
+Mamba Zombie,Undead,Zombie,Human,1,Swamp,United States,1976-11-06,0
+Demon,Mythical,Demon,Demon,1,Urban,Washington,1976-11-13,1
+Swamp Rat,Animal,Humanoid,Rat,1,Swamp,United States,1976-11-13,5
+Tamuka the Ghost Bull,Ghost,Beast,Bull,1,Rural,Texas,1976-11-20,0
+Medicine Man Ghost,Ghost,Witch Doctor,Human,1,Rural,Texas,1976-11-20,0
+Talking Bull,Animal,Beast,Bull,1,Rural,Texas,1976-11-20,0
+Demon Shark,Mythical,Demon,Shark,1,Urban,United States,1976-11-25,0
+Ghost of Captain Pescado,Ghost,Pirate,Human,1,Ocean,United States,1976-11-27,5
+Kelp Monster,Plant,Humanoid,Kelp,1,Ocean,United States,1976-11-27,5
+Octopus Monster,Animal,Octopus,Octopus,1,Ocean,United States,1976-11-27,5
+Rambling Ghost,Ghost,Athlete,Human,1,Urban,United States,1976-12-04,3
+Strawberry Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,1976-12-11,0
+Chocolate Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,1976-12-11,0
+Vanilla Technicolor Phantom,Ghost,Phantom,Human,1,Urban,United States,1976-12-11,0
+Ghost of Benedict Arnold,Ghost,Statue,Human,1,Urban,Washington D.C.,1976-12-18,0
+Ghost of William Demont,Ghost,Statue,Human,1,Urban,Washington D.C.,1976-12-18,0
+Ghost of Major Andre,Ghost,Statue,Human,1,Urban,Washington D.C.,1976-12-18,0
+Viking Ghost,Ghost,Viking,Human,1,Forest,United States,1977-09-10,3
+Viking Ghost,Ghost,Viking,Human,1,Forest,United States,1977-09-10,3
+Viking Ghost,Ghost,Viking,Human,1,Forest,United States,1977-09-10,3
+Gramps the Vamp,Undead,Vampire,Human,1,Island,United States,1977-09-17,0
+Pterodactyl Ghost,Ghost,Pterodactyl,Dinosaur,1,Mountain,United States,1977-09-24,0
+Phantom of Milo Booth,Ghost,Phantom,Human,1,Rural,United States,1977-10-01,5
+Lochness Monster,Animal,Lochness Monster,Lochness Monster,1,Rural,Scotland,1977-10-01,
+Phantom Racer,Ghost,Phantom,Human,1,Desert,United States,1977-10-08,1
+Ghost of Witch McCoy,Ghost,Witch,Human,1,Forest,United States,1977-10-15,3
+Zombie,Undead,Zombie,Human,1,Forest,United States,1977-10-15,3
+Futuristic Monster,Animal,Humanoid,Insect,1,Ocean,United States,1977-10-22,2
+Creepy Heap from the Deep,Animal,Sea-Monster,Sea-Monster,1,Coast,United States,1977-10-29,0
+Soulless Captain Clements,Undead,Possessed,Human,1,Coast,United States,1977-10-29,0
+Abominable Snowman,Animal,Yeti,Snow-Monster,1,Mountain,Nepal,1977-11-05,
+Abominable Snowwoman,Animal,Yeti,Snow-Monster,1,Mountain,Nepal,1977-11-05,
+Leprechaun,Mythical,Magician,Leprechaun,1,Rural,Ireland,1977-11-26,
+Prehistoric Dinosaur,Animal,Dinosaur,Dinosaur,1,Island,Hawaii,1977-12-03,
+Willawa,Animal,Owl,Owl,1,Forest,Indian Reserve,1978-09-09,0
+Owl Men,Animal,Humanoid,Owl,1,Forest,Indian Reserve,1978-09-09,0
+Owl Men,Animal,Humanoid,Owl,1,Forest,Indian Reserve,1978-09-09,0
+Ghost of Blue Beard,Ghost,Pirate,Human,1,Island,Caribbean,1978-09-09,
+Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,1978-09-16,3
+Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,1978-09-16,3
+Skeleton Men,Undead,Skeleton,Human,1,Island,Bermuda Triangle,1978-09-16,3
+Snow Beast,Animal,Beast,Snow-Monster,1,Snow,Canada,1978-09-23,0
+Annabelle,Mythical,Amazonian,Amazonian,1,Jungle,Brazil,1978-09-23,
+Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Rural,Romania,1978-09-23,
+Vampires,Undead,Vampire,Human,1,Rural,Romania,1978-09-23,
+Living Trees,Plant,Tree,Tree,1,Rural,Romania,1978-09-23,
+Monster of the Black Lagoon,Animal,Serpent,Swamp Monster,1,Rural,Romania,1978-09-23,
+Ghost Witch of Old Salem,Ghost,Witch,Human,1,Rural,Massachusetts,1978-09-30,0
+Tar Monster,Possessed Object,Tar,Creature,1,Cave,Turkey,1978-10-07,0
+Giant Squid,Animal,GIant,Squid,1,Ocean,Atlantis,1978-10-07,
+Ghost of Finnyan McDuff,Ghost,Phantom,Human,1,Rural,Scotland,1978-10-14,2
+Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,1978-10-14,2
+Old Iron Face,Disguised,Pirate,Human,1,Island,United States,1978-10-21,0
+Jaguaro,Animal,Beast,Jungle-Monster,1,Jungle,Brazil,1978-10-28,2
+Cat Creature,Animal,Humanoid,Cat,1,Urban,New York,1978-11-04,1
+Mantis,Animal,Humanoid,Mantis,1,Rural,United States,1978-11-11,1
+Phantom,Ghost,Musician,Human,1,Urban,United States,1978-11-18,0
+Moon Monster,Ghost,Demon,Beast,1,Urban,China,1978-11-25,0
+Ghostly Gondolier,Ghost,Phantom,Human,1,Urban,Italy,1978-12-02,1
+Ghost of Juan Carlos,Ghost,Phantom,Human,1,Island,Puerto Rico,1978-12-09,3
+Anthos,Ancient,Warlock,Human,1,Forest,England,1978-12-16,0
+Devil Hound,Animal,Demon,Hound,1,Forest,England,1978-12-16,0
+Beast of Bottomless Lake,Animal,Humanoid,Sea-Monster,1,Forest,Canada,1978-12-23,0
+Blue Scarab,Disguised,Super-Villain,Human,1,Urban,United States,1979-09-22,0
+Night Ghoul,Undead,Ghoul,Human,1,Urban,United States,1979-09-29,0
+Alien,Extraterrestrial,Alien,Alien,1,Forest,United States,1979-10-06,0
+Neon Phantom,Ghost,Phantom,Human,1,Urban,California,1979-10-13,0
+Snake Demon,Animal,Demon,Snake,1,Coast,Florida,1979-10-20,0
+Clown,Disguised,Clown,Human,1,Coast,Florida,1979-10-20,0
+Sky Skeleton,Undead,Skeleton,Human,1,Rural,United States,1979-10-27,0
+Dragon Beast,Mythical,Humanoid,Dragon,1,Urban,Japan,1979-11-03,0
+Devil Bear,Animal,Demon,Bear,1,Desert,Arizona,1979-11-10,0
+Sea Beast of the Aztecs,Animal,Humanoid,Sea-Monster,1,Coast,Mexico,1979-11-17,0
+Lady Vampire of the Bat,Undead,Vampire,Human,1,Urban,California,1979-11-24,0
+Star Creature,Extraterrestrial,Humanoid,Star,1,Rural,United States,1979-12-01,0
+Shadow Creature,Animal,Humanoid,Creature,1,Urban,United States,1979-12-08,0
+Ghost of Jeremiah Pratt,Ghost,Phantom,Human,1,Snow,United States,1979-12-15,0
+Ghost of the Great Haldane,Ghost,Magician,Human,1,Urban,New Jersey,1979-12-22,0
+Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,1979-12-29,0
+Aliens,Extraterrestrial,Alien,Alien,1,Space,Space,1980-11-08,
+Aliens,Extraterrestrial,Alien,Alien,1,Space,Space,1980-11-08,
+Sylvester,Undead,Vampire,Human,1,Rural,United States,1980-11-08,
+Chinese Food Factory Burglar,Disguised,Masked,Human,1,Urban,California,1980-11-08,
+Arabian Magician,Magician,Magician,Human,1,Desert,Saudi Arabia,1980-11-15,
+Cat Man,Animal,Humanoid,Cat,1,Mountain,South America,1980-11-15,
+Mummy,Undead,Mummy,Human,1,Desert,Egypt,1980-11-22,
+Caveman,Ancient,Caveman,Human,1,Island,United States,1980-11-29,
+Pirate,Ancient,Pirate,Human,1,Ocean,United States,1980-11-29,
+Swamp Witch,Magician,Witch,Human,1,Swamp,United States,1980-12-13,
+Knight,Ancient,Knight,Human,1,Rural,Scotland,1980-12-13,
+Wax Master,Possessed Object,Statue,Human,1,Urban,England,1980-12-20,
+Evil Trees,Plant,Evil,Tree,1,Rural,United States,1980-12-20,
+Caterpillar,Animal,Talking,Caterpillar,1,Rural,United States,1980-12-20,
+Cheshire Cat,Animal,Talking,Cat,1,Rural,United States,1980-12-20,
+Queen of Hearts,Magician,Queen,Human,1,Rural,United States,1980-12-20,
+Lava Monster,Possessed Object,Statue,Lava,1,Jungle,Hawaii,1980-12-27,
+Alaskan Monster,Animal,Beast,Snow-Monster,1,Snow,Alaska,1980-12-27,
+Rocky Maximus,Ancient,Gladiator,Human,1,Urban,Italy,1981-01-03,
+Swamp Monster,Animal,Beast,Swamp-Monster,1,Swamp,United States,1981-01-03,
+Shaggy,Animal,Werewolf,Human,1,Rural,Austria,1981-01-10,
+Rock Monsters,Possessed Object,Rock,Cave-Monster,1,Cave,United States,1981-01-17,
+Rock Monsters,Possessed Object,Rock,Cave-Monster,1,Cave,United States,1981-01-17,
+Wicked Witch of the North by Southeast,Magician,Witch,Human,1,Rural,United States,1981-01-17,
+Phantom of the Sewers,Disguised,Phantom,Human,1,Urban,France,1981-01-24,
+Rawhide Red,Mechanical,Robot,Object,1,Rural,United States,1981-01-24,
+Enemy Spy,Disguised,Spy,Human,1,Urban,California,1981-01-24,
+Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,1981-01-31,
+Pleasure Island Man,Magician,Trickster,Human,1,Urban,United States,1981-09-19,
+Pirate,Ghost,Pirate,Human,1,Island,United States,1981-09-19,
+Sheet Ghost,Ghost,Phantom,Human,1,Forest,United States,1981-09-19,
+Centaur,Animal,Centaur,Centaur,1,Ocean,Atlantis,1981-09-26,
+Merlin,Magician,Wizard,Human,1,Rural,England,1981-09-26,
+Jasper,Animal,Giant,Frog,1,Rural,England,1981-09-26,
+Alien,Extraterrestrial,Alien,Alien,1,Space,Space,1981-09-26,
+Dragon,Mythical,Dragon,Dragon,1,Cave,China,1981-10-03,
+Pat O'Wiley,Mythical,Leprechaun,Leprechaun,1,Forest,Ireland,1981-10-03,
+Madame Olga,Magician,Witch,Human,1,Urban,United States,1981-10-10,
+Red Baron,Ancient,Pilot,Human,1,Urban,United States,1981-10-10,
+T-Rex,Animal,Dinosaur,Dinosaur,1,Urban,United States,1981-10-10,
+Toy Gorilla,Mechanical,Toy,Gorilla,1,Urban,England,1981-10-17,
+Plutonian,Extraterrestrial,Alien,Hound,1,Urban,United States,1981-10-17,
+Dr. Wolf,Animal,Werewolf,Human,1,Urban,United States,1981-10-17,
+Vampire Foreman,Undead,Vampire,Human,1,Urban,United States,1981-10-24,
+Carnivorous Plants,Plant,Giant,Venus Fly Trap,1,Urban,United States,1981-10-24,
+Bigfoot,Animal,Humanoid,Bigfoot,1,Forest,United States,1981-10-31,
+Giant,Mythical,Giant,Human,1,Rural,United States,1981-10-31,
+Catfish Burglar,Disguised,Masked,Human,1,Ocean,United States,1982-10-02,
+Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,California,1982-10-02,
+Medusa,Mythical,Gorgon,Human,1,Urban,California,1982-10-02,
+Sea Creature,Animal,Humanoid,Sea-Monster,1,Urban,California,1982-10-02,
+Octopus Monster,Animal,Giant,Octopus,1,Urban,California,1982-10-02,
+Bigfoot,Animal,Humanoid,Bigfoot,1,Urban,California,1982-10-02,
+Slime Boy,Disguised,Slime,Human,1,Urban,United States,1982-11-06,
+Jasmine,Mythical,Phantom,Genie,1,Urban,United States,1982-11-20,
+Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,1982-11-27,
+Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,1982-11-27,
+Alien Scavenger Hunter,Extraterrestrial,Teen,Alien,1,Urban,United States,1982-11-27,
+Dognapper,Disguised,,Human,1,Urban,United States,1982-11-27,
+Cat Lady,Animal,Cat,Human,1,Urban,United States,1982-12-04,
+Wonga,Ancient,Caveman,Human,1,Forest,Pre-Historic,1982-12-11,
+Scooby-Doo,Animal,Werewolf,Hound,1,Urban,United States,1982-12-11,
+Abominable Snowman,Animal,Humanoid,Snow-Monster,1,Snow,United States,1982-12-19,
+Olaf the Terrible,Ancient,Viking,Human,1,Coast,Norway,1983-09-10,
+Great White Shark,Animal,Shark,Shark,1,Island,South America,1983-09-10,
+Seaweed Monster,Plant,Seaweed,Sea-Monster,1,Island,South America,1983-09-10,
+Face in the Fireplace,Ghost,Phantom,Human,1,Rural,United States,1983-09-10,
+Ghosts Under the Bed,Ghost,Phantom,Human,1,Rural,United States,1983-09-10,
+Living Animal Heads,Undead,Head,Beast,1,Rural,United States,1983-09-10,
+Skeleton,Undead,Skeleton,Human,1,Rural,United States,1983-09-10,
+Living Statue,Possessed Object,Statue,Human,1,Rural,United States,1983-09-10,
+Organ Playing Ghost,Ghost,Phantom,Human,1,Rural,United States,1983-09-10,
+Mud Monster,Possessed Object,Humanoid,Mud,1,Desert,United States,1983-09-10,
+Hound of the Barkervilles,Animal,Werewolf,Hound,1,Rural,Scotland,1983-09-17,
+Dinosaur,Animal,Dinosaur,Dinosaur,1,Jungle,Mexico,1983-09-17,
+Creature from Chem Lab,Possessed Object,Humanoid,Chem,1,Urban,United States,1983-09-17,
+Masked Manx,Animal,Humanoid,Gorilla,1,Forest,United States,1983-09-17,
+Randar the Ape Man,Animal,Humanoid,Ape,1,Jungle,Africa,1983-09-24,
+Mobotsu,Animal,Giant,Ape,1,Jungle,Africa,1983-09-24,
+Maid Zombie,Undead,Possessed,Human,1,Island,South America,1983-09-24,
+Barney Zombie,Undead,Possessed,Human,1,Island,South America,1983-09-24,
+Tourist Zombie,Undead,Possessed,Human,1,Island,South America,1983-09-24,
+Amy Zombie,Undead,Possessed,Human,1,Island,South America,1983-09-24,
+Neanderthal Monster of Devil's Rock,Animal,Humanoid,Beast,1,Rural,Australia,1983-10-01,
+Tower Wizard,Magician,Wizard,Human,1,Rural,United States,1983-10-08,
+Yadzruck,Animal,Humanoid,Yadzruck,1,Rural,United States,1983-10-08,
+Phantom of the Soaps,Ghost,Phantom,Human,1,Urban,United States,1983-10-08,
+Clown,Disguised,Clown,Human,1,Rural,United States,1983-10-15,
+Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,1983-10-29,
+Ghost of Casey O'Reilly,Ghost,Phantom,Human,1,Urban,United States,1983-10-29,
+Gremlin,Mythical,Gremlin,Gremlin,1,Rural,California,1983-11-05,
+Specter of the Sports Cars,Ghost,Phantom,Human,1,Urban,United States,1983-11-05,
+Frankenstein's Monster,Undead,Frankenstein's Monster,Human,1,Forest,Romania,1983-11-26,
+Dracula,Undead,Vampire,Human,1,Forest,Romania,1983-11-26,
+Dracula's Wife,Undead,Vampire,Human,1,Forest,Romania,1983-11-26,
+Dracula Jr.,Animal,Werewolf,Human,1,Forest,Romania,1983-11-26,
+Ghost of Chef Maras,Ghost,Chef,Human,1,Urban,France,1983-11-26,
+Mummy,Undead,Mummy,Human,1,Rural,Austria,1983-12-03,
+Ghost of McBaggy Rodgers,Ghost,Phantom,Human,1,Rural,Massachusetts,1983-12-10,
+Red Skull,Disguised,Skull,Human,1,Urban,United States,1984-09-08,0
+Maid Mummy,Undead,Mummy,Human,1,Urban,United States,1984-09-15,
+Helping Hands,Possessed Object,Gloves,Object,1,Forest,United States,1984-09-15,
+Sea Demon,Animal,Humanoid,Sea-Monster,1,Coast,Denmark,1984-09-22,
+Sea Demon,Animal,Humanoid,Sea-Monster,1,Coast,Denmark,1984-09-22,
+Cyclops,Mythical,Cyclops,Human,1,Island,Greece,1984-09-22,
+Master Mind,Super-Villain,Genius,Human,1,Urban,New York,1984-09-29,
+Giant Bees,Animal,Giant,Bee,1,Rural,United States,1984-09-29,
+Ghost of Ebenezer Overview,Ghost,Phantom,Human,1,Snow,United States,1984-10-06,
+Zombies,Undead,Zombie,Human,1,Island,South America,1984-10-13,5
+Zombies,Undead,Zombie,Human,1,Island,South America,1984-10-13,5
+Zombies,Undead,Zombie,Human,1,Island,South America,1984-10-13,5
+Zombies,Undead,Zombie,Human,1,Island,South America,1984-10-13,5
+Evil Elf,Mythical,Elf,Elf,1,Forest,United States,1984-10-20,
+Mad Sea Lion,Animal,Sea Lion,Sea Lion,1,Snow,Antarctica,1984-10-20,
+Ghost of Dr. Van Helsing,Ghost,Phantom,Human,1,Desert,United States,1984-10-27,3
+Ghost of Abraham Lincoln,Ghost,President,Human,1,Urban,Washington D.C.,1984-11-03,
+Ghost of George Washington,Ghost,President,Human,1,Urban,Washington D.C.,1984-11-03,
+Ghost of Ulysses S. Grant,Ghost,President,Human,1,Urban,Washington D.C.,1984-11-03,
+Ghost of Theodore Roosevelt,Ghost,President,Human,1,Urban,Washington D.C.,1984-11-03,
+Ghost of Colonel Beauregard,Ghost,Phantom,Human,1,Swamp,United States,1984-11-10,
+Ghost of Sherlock Holmes,Ghost,Detective,Human,1,Urban,England,1984-11-17,
+Monster Mutt,Animal,Super-Villain,Hound,1,Urban,California,1984-11-24,
+Monster Mouse,Animal,Giant,Mouse,1,Rural,United States,1984-11-24,
+Ghost of Christmas Never,Ghost,Phantom,Human,1,Snow,United States,1984-12-01,
+Bogle,Ghost,Phantom,Cartoon,1,Snow,Tibet,1985-09-07,
+Weerd,Ghost,Phantom,Cartoon,1,Snow,Tibet,1985-09-07,
+Ghoulio,Undead,Vampire,Human,1,Snow,Tibet,1985-09-07,
+Werewolfs,Animal,Werewolf,Human,1,Snow,Tibet,1985-09-07,
+Werewolf Daphnie,Animal,Werewolf,Human,1,Snow,Tibet,1985-09-07,
+Maldore the Malevolent,Mythical,Demon,Demon,1,Forest,United States,1985-09-14,
+Evil Tree,Plant,Evil,Tree,1,Forest,United States,1985-09-14,
+Evil Tree,Plant,Evil,Tree,1,Forest,United States,1985-09-14,
+Dragon,Mythical,Dragon,Dragon,1,Forest,United States,1985-09-14,
+Rat Gaurds,Animal,Giant,Rat,1,Forest,United States,1985-09-14,
+Rat Gaurds,Animal,Giant,Rat,1,Forest,United States,1985-09-14,
+Shadow Demon,Mythical,Shadow,Demon,1,Rural,United States,1985-09-21,
+Griswald,Animal,Giant,Spider,1,Rural,United States,1985-09-21,
+Bogle,Ghost,Phantom,Cartoon,1,Desert,Morocco,1985-09-28,
+Weerd,Ghost,Phantom,Cartoon,1,Desert,Morocco,1985-09-28,
+Reflector Specter,Mythical,Mirror,Demon,1,Desert,Morocco,1985-09-28,
+Zomba,Mythical,Demon,Demon,1,Urban,United States,1985-10-05,
+Dr. Frankscoob's Monster,Undead,Frankenstein's Monster,Human,1,Urban,United States,1985-10-05,
+Bogel,Ghost,Phantom,Cartoon,1,Ocean,Bermuda Triangle,1985-10-12,
+Weerd,Ghost,Phantom,Cartoon,1,Ocean,Bermuda Triangle,1985-10-12,
+Captain Ghost,Ghost,Phantom,Human,1,Ocean,Bermuda Triangle,1985-10-12,
+Ghosts on the Ship,Ghost,Phantom,Human,1,Ocean,Bermuda Triangle,1985-10-12,
+Bogel,Ghost,Phantom,Cartoon,1,Urban,Louisiana,1985-10-19,
+Weerd,Ghost,Phantom,Cartoon,1,Urban,Louisiana,1985-10-19,
+Nekara,Magician,Witch,Human,1,Urban,Louisiana,1985-10-19,
+Marcella,Magician,Witch,Human,1,Forest,United States,1985-10-26,
+Helda Brewski,Magician,Witch,Human,1,Forest,United States,1985-10-26,
+Ernestine Brewski,Magician,Witch,Human,1,Forest,United States,1985-10-26,
+Wanda Brewski,Magician,Witch,Human,1,Forest,United States,1985-10-26,
+Time Slime,Magician,Wizard,Human,1,Urban,United States,1985-11-02,
+Bogel,Ghost,Phantom,Human,1,Urban,United States,1985-11-02,
+Weerd,Ghost,Phantom,Human,1,Urban,United States,1985-11-02,
+Demondo,Mythical,Demon,Demon,1,Urban,United States,1985-11-09,
+Bogel,Ghost,Phantom,Cartoon,1,Urban,United States,1985-11-09,
+Weerd,Ghost,Phantom,Cartoon,1,Urban,United States,1985-11-09,
+Rankor,Undead,Vampire,Goblin,1,Rural,United States,1985-11-16,
+Bogel,Ghost,Phantom,Cartoon,1,Rural,United States,1985-11-16,
+Weerd,Ghost,Phantom,Cartoon,1,Rural,United States,1985-11-16,
+Head of S.A.P.S.,Ghost,Demon,Demon,1,Rural,United States,1985-11-16,
+Living Plants,Plant,Flower,Flower,1,Rural,United States,1985-11-16,
+Porff. Phantazmo,Magician,Warlock,Human,1,Rural,United States,1985-11-23,
+Bogel,Ghost,Phantom,Cartoon,1,Rural,United States,1985-11-23,
+Weerd,Ghost,Phantom,Cartoon,1,Rural,United States,1985-11-23,
+Zimbulu,Mythical,Demon,Demon,1,Urban,United States,1985-12-07,
+Bogel,Ghost,Phantom,Cartoon,1,Urban,United States,1985-12-07,
+Weerd,Ghost,Phantom,Cartoon,1,Urban,United States,1985-12-07,
+Boris Kreepoff,Undead,Zombie,Human,1,Urban,United States,1985-12-07,
+Zombies,Undead,Zombie,Human,1,Urban,United States,1985-12-07,
+Zombies,Undead,Zombie,Human,1,Urban,United States,1985-12-07,
+Zombies,Undead,Zombie,Human,1,Urban,United States,1985-12-07,
+Headless Horseman,Undead,Undead,Human,1,Swamp,United States,1987-10-18,
+Beauregard's Ghost,Ghost,Soldier,Human,1,Swamp,United States,1987-10-18,
+Skull Ghost,Undead,Skeleton,Human,1,Swamp,United States,1987-10-18,
+Floating Skeleton,Undead,Skeleton,Human,1,Swamp,United States,1987-10-18,
+Ghost,Ghost,Phantom,Human,1,Urban,United States,1988-09-10,0
+Sludge Monster from the Earth's Croe,Possessed Object,Sludge,Sludge-Monster,1,Urban,United States,1988-09-17,0
+Dr. Croaker,Animal,Humanoid,Frog,1,Urban,United States,1988-09-24,0
+Cheese Monster,Possessed Object,Humanoid,Cheese,1,Urban,United States,1988-10-01,4
+Ghost of Al Cabone,Ghost,Phantom,Human,1,Urban,United States,1988-10-08,0
+Boogedy Bones,Undead,Zombie,Human,1,Urban,United States,1988-10-15,0
+Revolta,Magician,Witch,Human,1,Swamp,United States,1988-10-16,
+Grim Creeper,Plant,Humanoid,Potato,1,Swamp,United States,1988-10-16,
+Mirror Monster,Magician,Mirror Monster,Human,1,Swamp,United States,1988-10-16,
+Well-Dweller,Animal,Humanoid,Sea-Monster,1,Swamp,United States,1988-10-16,
+Ice Demon,Possessed Object,Humanoid,Ice,1,Mountain,United States,1988-10-22,5
+Samurai Ghost,Ghost,Samurai,Human,1,Urban,United States,1988-10-29,0
+Headless Skateboarder,Undead,Headless,Human,1,Coast,United States,1988-11-05,0
+Boobeard,Ghost,Pirate,Human,1,Urban,United States,1988-11-12,0
+Totem Spirit,Possessed Object,Statue,Totem,1,Forest,United States,1988-11-19,3
+Ghost of Chef Pierre Goulash,Ghost,Chef,Human,1,Urban,United States,1988-11-26,0
+Stinkweed,Plant,Humanoid,Plant-Monster,1,Urban,United States,1988-12-03,0
+Ghost of Buster McMutt Mauler,Ghost,Phantom,Human,1,Urban,United States,1989-09-09,0
+Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,1989-09-16,0
+Ghost of Purvis Parker,Undead,Skeleton,Human,1,Urban,United States,1989-09-23,0
+Chickenstein,Undead,Frankenstein's Monster,Chicken,1,Urban,United States,1989-09-30,0
+Burger Monster,Possessed Object,Burger,Burger,1,Urban,United States,1989-10-07,0
+Dinkley 2000,Mechanical,Humanoid,Computer,1,Urban,United States,1989-10-14,4
+Ghost of Zombo,Ghost,Clown,Human,1,Urban,United States,1989-10-28,0
+Boogey Biker,Undead,Skeleton,Human,1,Urban,United States,1990-09-08,0
+Astronaut Ghost,Ghost,Astronaut,Human,1,Urban,United States,1990-09-08,0
+Bigwig,Possessed Object,Humanoid,Hair,1,Urban,United States,1990-10-06,0
+Ghost of the Hooded Heifer,Ghost,Wrestler,Human,1,Urban,United States,1990-11-03,0
+Nasty-Doo,Animal,Hound,Hound,1,Urban,United States,1991-08-03,0
+Ghost of Mrs. Shusham,Ghost,Librarian,Human,1,Urban,United States,1991-08-10,0
+Moving Mollusk,Animal,Giant,Snail,1,Urban,New York,1991-08-17,0
+Ghostly Gardener,Undead,Ghost,Human,1,Rural,United States,1997-07-25,0
+Ghost of Morgan Moonscar,Ghost,Pirate,Human,1,Swamp,Louisiana,1998-09-22,3
+Pirate Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,1998-09-22,3
+Confederate Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,1998-09-22,3
+Tourist Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,1998-09-22,3
+Simone Lenoir,Animal,Werecat,Human,1,Swamp,Louisiana,1998-09-22,3
+Lena Dupree,Animal,Werecat,Human,1,Swamp,Louisiana,1998-09-22,3
+Jacques,Animal,Werecat,Human,1,Swamp,Louisiana,1998-09-22,3
+Ben Ravencroft,Magician,Warlock,Human,1,Rural,Massachusetts,1999-10-05,3
+Sarah Ravencroft,Ghost,Witch,Human,1,Rural,Massachusetts,1999-10-05,3
+Evil Trees,Plant,Evil,Tree,1,Rural,Massachusetts,1999-10-05,3
+Pumpkin Monsters,Plant,Humanoid,Pumpkin,1,Rural,Massachusetts,1999-10-05,3
+Enormous Turkey,Animal,Giant,Turkey,1,Rural,Massachusetts,1999-10-05,3
+Casper County Monster,Animal,Humanoid,Forest-Monster,1,Forest,United States,1999-10-31,0
+Casper County Monster,Animal,Humanoid,Forest-Monster,1,Forest,United States,1999-10-31,0
+Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,2000-10-03,5
+Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,2000-10-03,5
+Aliens,Extraterrestrial,Alien,Alien,1,Desert,New Mexico,2000-10-03,5
+Phantom Virus,Possessed Object,Humanoid,Electric,1,Urban,United States,2001-10-09,5
+Zombie,Undead,Zombie,Human,1,Rural,United States,2001-10-31,0
+Mummy,Undead,Mummy,Human,1,Rural,United States,2001-10-31,0
+Zombie Gary Coleman,Undead,Zombie,Human,1,Rural,United States,2001-10-31,0
+Demons,Mythical,Demon,Demon,1,Island,United States,2002-06-14,4
+Demons,Mythical,Demon,Demon,1,Island,United States,2002-06-14,4
+Demons,Mythical,Demon,Demon,1,Island,United States,2002-06-14,4
+Demons,Mythical,Demon,Demon,1,Island,United States,2002-06-14,4
+Possessed College Kids,Possessed Object,Possessed,Human,1,Island,United States,2002-06-14,4
+Possessed Fred,Possessed Object,Possessed,Human,1,Island,United States,2002-06-14,4
+Possessed Marry Jane,Possessed Object,Possessed,Human,1,Island,United States,2002-06-14,4
+Possessed Daphine,Possessed Object,Possessed,Human,1,Island,United States,2002-06-14,4
+Possessed Velma,Possessed Object,Possessed,Human,1,Island,United States,2002-06-14,4
+Scrappy-Rex,Animal,Giant,Hound,1,Island,United States,2002-06-14,4
+Green Monster,Plant,Humanoid,Weed,1,Urban,United States,2002-07-07,2
+Snow Creature,Animal,Humanoid,Ice-Monster,1,Snow,United States,2002-09-14,0
+Dinosaur Spirit,Animal,Spirit,Dinosaur,1,Jungle,Costa Rica,2002-09-21,0
+The Alien,Extraterrestrial,Alien,Alien,1,Urban,United States,2002-09-28,0
+Ghost of the Leland Brothers,Ghost,Soldier,Human,1,Urban,Louisiana,2002-10-05,1
+Ghost of the Leland Brothers,Ghost,Soldier,Human,1,Urban,Louisiana,2002-10-05,1
+The Mystery Machine,Possessed Object,Car,Vehicle,1,Urban,United States,2002-10-26,1
+Ghost of Rufus Raucaus,Ghost,Phantom,Human,1,Urban,Nevada,2002-11-02,0
+Roller Ghoster,Animal,Humanoid,Beast,1,Urban,United States,2002-11-09,0
+Jungle Demons,Animal,Demon,Animal,1,Jungle,Malawi,2002-11-23,0
+Motoshondu,Animal,Serpent,Sea-Monster,1,Island,United States,2002-11-30,0
+Headless Snowman,Possessed Object,Headless,Snow-Man,1,Snow,United States,2002-12-13,0
+Spaceman Swintons,Mechanical,Humanoid,Toy,1,Urban,United States,2003-02-01,0
+Annabel Action Figure,Mechanical,Humanoid,Toy,1,Urban,United States,2003-02-01,0
+Other Toys,Mechanical,Toy,Toy,1,Urban,United States,2003-02-01,0
+Faceless Phantom,Ghost,Phantom,Human,1,Urban,California,2003-02-15,0
+Undead,Ancient,Gladiator,Human,1,Rural,Italy,2003-02-22,0
+Yowie Yahoo,Undead,Vampire,Human,1,Desert,Australia,2003-03-04,0
+Dark Skull,Undead,Vampire,Human,1,Desert,Australia,2003-03-04,0
+Stormy Weathers,Undead,Vampire,Human,1,Desert,Australia,2003-03-04,0
+Lightning Strikes,Undead,Vampire,Human,1,Desert,Australia,2003-03-04,0
+Baseball Specter,Ghost,Specter,Human,1,Urban,United States,2003-03-22,2
+Ancient One,Magician,Mystic,Human,1,Urban,Japan,2003-09-13,1
+30 Foot Shaggy,Animal,Giant,Human,1,Urban,Japan,2003-09-13,1
+Mummy of Pharaoh Scamses,Undead,Mummy,Human,1,Desert,Egypt,2003-09-20,3
+Zombies,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombies,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombies,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombies,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombie Fred,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombie Daphnie,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Zombie Velma,Undead,Zombie,Human,1,Desert,Egypt,2003-09-20,3
+Gusano Grande,Animal,Giant,Worm,1,Desert,Mexico,2003-09-27,5
+Chupacabra,Animal,Humanoid,Chupacabra,1,Rural,Mexico,2003-09-30,1
+Paco,Animal,Bird,Parrot,1,Rural,Mexico,2003-09-30,1
+Quetzalcoatl,Mythical,Dragon,Dragon,1,Rural,Mexico,2003-09-30,1
+Jaguar Statues,Possessed Object,Statue,Jaguar,1,Rural,Mexico,2003-09-30,1
+Aztec Giant Statue,Possessed Object,Statue,Human,1,Rural,Mexico,2003-09-30,1
+Ghost of Señor Otero,Ghost,Phantom,Human,1,Rural,Mexico,2003-09-30,1
+Skeleton Man,Undead,Skeleton,Human,1,Rural,Mexico,2003-09-30,1
+Jeevens,Mechanical,Robot,Robot,1,Rural,United States,2003-10-04,1
+Shari,Mechanical,Computer,Computer,1,Rural,United States,2003-10-04,1
+Baron Fortescu,Undead,Vampire,Human,1,Rural,Romania,2003-10-18,1
+Scarecrows,Possessed Object,Scarecrow,Human,1,Rural,United States,2003-10-25,0
+Ghost of Hank Banning,Ghost,Phantom,Human,1,Rural,United States,2003-10-25,0
+Cat Creature,Animal,Humanoid,Cat,1,Urban,United States,2003-10-25,1
+San Franpsycho,Ancient,Convict,Human,1,Urban,California,2004-03-20,0
+Invisible Man,Disguised,Invisible,Human,1,Snow,Canada,2004-03-22,0
+Scooby Snack Monster,Possessed Object,Humanoid,Scooby Snack,1,Urban,Ohio,2004-03-23,0
+Scooby Snack Monster,Possessed Object,Humanoid,Scooby Snack,1,Urban,Ohio,2004-03-23,0
+Glasburgh Dragon,Mythical,Dragon,Dragon,1,Rural,Scotland,2004-03-24,1
+Fish Creature,Animal,Humanoid,Fish,1,Snow,Antarctica,2004-03-25,1
+Wakumi,Animal,Giant,Bird,1,Desert,New Mexico,2004-03-26,1
+Shaman,Ancient,Shaman,Human,1,Desert,New Mexico,2004-03-26,1
+Masked Figure,Disguised,Scientist,Human,1,Urban,United States,2004-03-26,5
+Pterodactyl Ghost,Animal,Dinosaur,Pterodactyl,1,Urban,United States,2004-03-26,5
+Black Knight Ghost,Possessed Object,Suit,Human,1,Urban,United States,2004-03-26,5
+Cotton Candy Glob,Possessed Object,Candy,Cotton Candy,1,Urban,United States,2004-03-26,5
+Tar Monster,Possessed Object,Tar,Tar,1,Urban,United States,2004-03-26,5
+Minder 49er,Ancient,Miner,Human,1,Urban,United States,2004-03-26,5
+Captain Cutler's Ghost,Possessed Object,Suit,Human,1,Urban,United States,2004-03-26,5
+Zombie,Undead,Zombie,Human,1,Urban,United States,2004-03-26,5
+10000 Volt Ghost,Ghost,Electric,Human,1,Urban,United States,2004-03-26,5
+Skeleton Men,Undead,Skeleton,Human,1,Urban,United States,2004-03-26,5
+Skeleton Men,Undead,Skeleton,Human,1,Urban,United States,2004-03-26,5
+Centaur,Mythical,Beast,Centaur,1,Rural,Greece,2004-03-27,0
+Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,2004-06-24,0
+Loch Ness Monster,Mythical,Loch Ness Monster,Dinosaur,1,Rural,Scotland,2004-06-24,0
+Creepy Keeper,Undead,Lighthouse Keeper,Human,1,Rural,Wisconsin,2005-01-29,1
+Skeleton Crew,Undead,Skeleton,Human,1,Rural,Wisconsin,2005-01-29,1
+Sheriff,Mechanical,Cowboy,Human,1,Desert,Arizona,2005-02-05,5
+Cold Steel,Mechanical,Cowboy,Human,1,Desert,Arizona,2005-02-05,5
+Other Robot Cowboys,Mechanical,Cowboy,Human,1,Desert,Arizona,2005-02-05,5
+Wiki-Tiki,Ancient,Hawaiian,Human,1,Island,Hawaii,2005-02-08,0
+Tiny Tikis,Ancient,Hawaiian,Human,1,Island,Hawaii,2005-02-08,0
+Clone Fred,Mechanical,Clone,Human,1,Urban,United States,2005-02-11,5
+Clone Daphnie,Mechanical,Clone,Human,1,Urban,United States,2005-02-11,5
+Clone Velma,Mechanical,Clone,Human,1,Urban,United States,2005-02-11,5
+Clone Shaggy,Mechanical,Clone,Human,1,Urban,United States,2005-02-11,5
+Clone Scooby,Mechanical,Clone,Human,1,Urban,United States,2005-02-11,5
+Titanic Twist,Undead,Deformed,Human,1,Desert,United States,2005-02-12,1
+Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,France,2005-02-19,1
+Demon Farmer,Undead,Farmer,Human,1,Rural,United States,2005-02-25,0
+Frozen Fiend,Undead,Ice,Human,1,Urban,Russia,2005-03-03,0
+Menacing Metallic Clown,Mechanical,Clown,Human,1,Rural,United States,2005-03-12,0
+Toxic Terror,Possessed Object,Humanoid,Toxic,1,Forest,United States,2005-03-19,
+Dragon,Mythical,Dragon,Dragon,1,Urban,Hong Kong,2005-03-26,5
+Skeleton Driver,Undead,Skeleton,Human,1,Urban,United States,2005-04-02,0
+Gold Monster,Possessed Object,Humanoid,Gold,1,Rural,Kentukey,2005-04-09,0
+Coral Creature,Plant,Humanoid,Coral,1,Coast,Australia,2005-04-19,2
+Sand Monsters,Possessed Object,Sand,Human,1,Coast,Australia,2005-04-19,2
+Ghost of Cleopatra,Undead,Mummy,Human,1,Desert,Egypt,2005-11-24,1
+Army of the Undead,Undead,Mummy,Human,1,Desert,Egypt,2005-11-24,1
+Spirit of the Sand,Animal,Giant,Scorpion,1,Desert,Egypt,2005-11-24,1
+Osomons,Animal,Little,Osomons,1,Urban,California,2006-07-21,0
+Cptn. Skunk Beard,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,2006-09-19,5
+Wooden Wally,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,2006-09-19,5
+Sea Salt Sally,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,2006-09-19,5
+Cptn. Skunk Beard's Crew,Undead,Pirate,Human,1,Ocean,Bermuda Triangle,2006-09-19,5
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2006-09-23,2
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 5,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 6,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 7,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+8,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+9,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 10,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 11,Disguised,Agent,Human,1,Urban,United States,2006-09-23,2
+Agent 12,Dr. Trebal,Doctor,Human,1,Urban,United States,2006-09-23,2
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Snow,Switzerland,2006-09-30,
+Agent 3,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 4,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 5,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 6,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 7,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+9,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 10,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 11,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 12,Disguised,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Agent 13,Dr. Trebal,Doctor,Human,1,Snow,Switzerland,2006-09-30,
+Dr. Trebal,Super-Villain,Agent,Human,1,Snow,Switzerland,2006-09-30,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2006-10-07,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2006-10-07,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2006-10-07,
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2006-10-07,
+Agent 8,Disguised,Agent,Human,1,Urban,United States,2006-10-07,
+Agent 11,Disguised,Agent,Human,1,Urban,United States,2006-10-07,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2006-10-07,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2006-11-04,
+A.R.T.,Mechanical,Robot,Object,1,Urban,United States,2006-11-04,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2006-11-04,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2006-11-04,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2006-11-11,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2006-11-11,
+Kevin,Mechanical,Computer,Object,1,Urban,United States,2006-11-11,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2006-11-11,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2006-11-11,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2006-11-11,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2006-11-11,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Space,Space,2006-11-18,
+Agent 1,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 2,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 3,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 4,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 7,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 10,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 11,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 12,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Agent 13,Disguised,Agent,Human,1,Space,Space,2006-11-18,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Space,Space,2006-11-18,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Jungle,South America,2007-02-02,
+Bruce,Super-Villain,Poacher,Human,1,Jungle,South America,2007-02-02,
+Brucey,Super-Villain,Poacher,Human,1,Jungle,South America,2007-02-02,
+Agent 13,Disguised,Agent,Human,1,Jungle,South America,2007-02-02,
+Mark,Super-Villain,Nerd,Human,1,Jungle,South America,2007-02-02,
+Ricky,Super-Villain,Nerd,Human,1,Jungle,South America,2007-02-02,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Jungle,South America,2007-02-02,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Forest,United States,2007-02-10,
+Agent 4,Disguised,Agent,Human,1,Forest,United States,2007-02-10,
+Agent 13,Disguised,Agent,Human,1,Forest,United States,2007-02-10,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,New York,2007-02-17,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,New York,2007-02-17,
+Chef Suki Sukihari,Super-Villain,Chef,Human,1,Urban,New York,2007-02-17,
+Agent 2,Disguised,Agent,Human,1,Urban,New York,2007-02-17,
+Agent 5,Disguised,Agent,Human,1,Urban,New York,2007-02-17,
+Agent 8,Disguised,Agent,Human,1,Urban,New York,2007-02-17,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Rural,United States,2007-02-24,0
+Dr. Trebla,Super-Villain,Doctor,Human,1,Rural,United States,2007-02-24,0
+Agent 1,Disguised,Agent,Human,1,Rural,United States,2007-02-24,0
+Agent 2,Disguised,Agent,Human,1,Rural,United States,2007-02-24,0
+Mark,Super-Villain,Nerd,Human,1,Rural,United States,2007-02-24,0
+Ricky,Super-Villain,Nerd,Human,1,Rural,United States,2007-02-24,0
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Rural,United States,2007-03-03,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Rural,United States,2007-03-03,
+Dr. Speed,Super-Villain,Doctor,Human,1,Rural,United States,2007-03-03,
+Agent 1,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 2,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 5,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 6,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 8,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 11,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 12,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Agent 13,Disguised,Agent,Human,1,Rural,United States,2007-03-03,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Desert,United States,2007-04-28,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Desert,United States,2007-04-28,
+Agent 1,Disguised,Agent,Human,1,Desert,United States,2007-04-28,
+Agent 2,Disguised,Agent,Human,1,Desert,United States,2007-04-28,
+Mark,Super-Villain,Nerd,Human,1,Desert,United States,2007-04-28,
+Ricky,Super-Villain,Nerd,Human,1,Desert,United States,2007-04-28,
+Agent,Disguised,Agent,Human,1,Desert,United States,2007-04-28,
+4,Disguised,Agent,Human,1,Desert,United States,2007-04-28,
+Agent 7,Disguised,Agent,Human,1,Desert,United States,2007-04-28,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-05-05,
+Menace,Super-Villain,Wrestler,Human,1,Urban,United States,2007-05-05,
+Mr. Invisible,Super-Villain,Invisible,Human,1,Urban,United States,2007-05-05,
+Cat Lady,Super-Villain,Super-Villain,Human,1,Urban,United States,2007-05-05,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2007-05-05,
+Abominable Snowman,Animal,Yeti,Ice-Monster,1,Mountain,Tibet,2007-08-31,0
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-09-22,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2007-09-22,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Agent 5,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Agent 6,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Agent 7,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Agent 9,Disguised,Agent,Human,1,Urban,United States,2007-09-22,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2007-09-22,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2007-09-22,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-09-29,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2007-09-29,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2007-09-29,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2007-09-29,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2007-09-29,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2007-09-29,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2007-09-29,
+Menace,Super-Villain,Wrestler,Human,1,Urban,United States,2007-09-29,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-10-06,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 5,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 6,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 8,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Agent 9,Disguised,Agent,Human,1,Urban,United States,2007-10-06,
+Dr Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2007-10-06,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Island,United States,2007-10-13,
+Agent 1,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 2,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 3,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 4,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 5,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 7,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 8,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 9,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 11,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 12,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Agent 13,Disguised,Agent,Human,1,Island,United States,2007-10-13,
+Dr Trebla,Super-Villain,Doctor,Human,1,Island,United States,2007-10-13,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-11-03,
+Clown Phibes,Super-Villain,Clown,Human,1,Urban,United States,2007-11-03,
+Evil Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-11-03,
+Peekaboo Phibes,Super-Villain,Playful,Human,1,Urban,United States,2007-11-03,
+Klepto Phibes,Super-Villain,Burglar,Human,1,Urban,United States,2007-11-03,
+Kung Fu Phibes,Super-Villain,Kung Fu,Human,1,Urban,United States,2007-11-03,
+Pirate Phibes,Super-Villain,Pirate,Human,1,Urban,United States,2007-11-03,
+Pantsing Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-11-03,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2007-11-03,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2007-11-03,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2007-11-03,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Ocean,Mexico,2007-11-10,
+Agent 1,Disguised,Agent,Human,1,Ocean,Mexico,2007-11-10,
+Agent 2,Disguised,Agent,Human,1,Ocean,Mexico,2007-11-10,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Ocean,Mexico,2007-11-10,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-12-01,
+Evil Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2007-12-01,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2007-12-01,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2007-12-01,
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2007-12-01,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2007-12-01,
+Agent 13,Disguised,Agent,Human,1,Urban,United States,2007-12-01,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2007-12-01,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2008-01-26,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2008-01-26,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2008-01-26,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2008-01-26,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2008-01-26,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2008-01-26,
+Rusty,Animal,Werewolf,Human,1,Urban,United States,2008-01-26,
+Bacon,Animal,Pig,Pig,1,Urban,United States,2008-01-26,
+Mummy,Undead,Mummy,Human,1,Urban,United States,2008-01-26,
+Frankenstein,Undead,Frankenstin's Monster,Human,1,Urban,United States,2008-01-26,
+Dracula,Undead,Vampire,Human,1,Urban,United States,2008-01-26,
+Swamp Monster,Animal,Swamp Monster,Swamp-Monster,1,Urban,United States,2008-01-26,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2008-02-02,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 7,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 8,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 9,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 11,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Agent 13,Disguised,Agent,Human,1,Urban,United States,2008-02-02,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2008-02-02,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2008-02-02,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2008-02-02,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2008-02-16,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 3,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 8,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 9,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Agent 11,Disguised,Agent,Human,1,Urban,United States,2008-02-16,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2008-02-16,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Desert,Texas,2008-02-23,
+Agent 1,Disguised,Agent,Human,1,Desert,Texas,2008-02-23,
+Agent 2,Disugised,Agent,Human,1,Desert,Texas,2008-02-23,
+Agent 4,Disguised,Agent,Human,1,Desert,Texas,2008-02-23,
+Mark,Super-Villain,Nerd,Human,1,Desert,Texas,2008-02-23,
+Ricky,Super-Villain,Nerd,Human,1,Desert,Texas,2008-02-23,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Desert,Texas,2008-02-23,
+Menace,Animal,Bull,Bull,1,Desert,Texas,2008-02-23,
+Super Bulls,Animal,Giant,Rooster,1,Desert,Texas,2008-02-23,
+Zoinks,Mechanical,Dog,Robot,1,Urban,United States,2008-03-08,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2008-03-08,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2008-03-08,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2008-03-08,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2008-03-08,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2008-03-08,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2008-03-08,
+Groovy Don,Mechanical,Hippy,Robot,1,Urban,United States,2008-03-08,
+Dr. Phineus Phibes,Super-Villain,Doctor,Human,1,Urban,United States,2008-03-15,
+Agent 1,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 2,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 4,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 5,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 13,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 21,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 44,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Agent 89,Disguised,Agent,Human,1,Urban,United States,2008-03-15,
+Mark,Super-Villain,Nerd,Human,1,Urban,United States,2008-03-15,
+Ricky,Super-Villain,Nerd,Human,1,Urban,United States,2008-03-15,
+Dr. Trebla,Super-Villain,Doctor,Human,1,Urban,United States,2008-03-15,
+Amazing Krudsky,Mythical,Wizard,Human,1,Urban,United States,2008-10-08,5
+Glob,Mythical,Goblin,Goblin,1,Urban,United States,2008-10-08,5
+Glum,Mythical,Goblin,Goblin,1,Urban,United States,2008-10-08,5
+Headless Horseman,Undead,Headless,Human,1,Urban,United States,2008-10-08,5
+Goblin King,Mythical,Goblin,Goblin,1,Urban,United States,2008-10-08,5
+Goblins,Mythical,Goblin,Goblin,1,Urban,United States,2008-10-08,5
+Black Samurai,Ghost,Samurai,Human,1,Urban,Japan,2009-04-07,5
+Ninjas,Disguised,Ninja,Human,1,Urban,Japan,2009-04-07,5
+Specter,Disguised,Specter,Human,1,Urban,Ohio,2009-09-13,5
+Ezekial Gallows,Undead,Ghost,Human,1,Urban,Ohio,2009-09-13,5
+Prudence Prufrock,Undead,Ghost,Human,1,Urban,Ohio,2009-09-13,5
+Gryphon,Mythical,Griffin,Griffin,1,Forest,United States,2010-02-16,0
+Banshee,Mythical,Banshee,Banshee,1,Forest,United States,2010-02-16,0
+Slime Mutant,Possessed Object,Slime,Slime-Monster,1,Urban,California,2010-04-05,4
+Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,2010-07-19,0
+Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,2010-07-19,0
+Creeping Creatures,Animal,Humanoid,Alligator,1,Swamp,California,2010-07-19,0
+Ghost Truck,Possessed Object,Truck,Truck,1,Urban,California,2010-07-26,0
+Man-Crab,Animal,Humanoid,Crab,1,Coast,California,2010-08-02,1
+Que Horrifico,Ancient,Pupeteer,Human,1,Urban,California,2010-08-09,0
+Spookified Kids,Possessed,Kid,Human,1,Urban,California,2010-08-09,0
+Ghost Girl,Ghost,Ghost,Human,1,Urban,California,2010-08-16,0
+Phantom,Ghost,Phantom,Human,1,Urban,California,2010-08-23,1
+Gnome,Mythical,Gnome,Human,1,Forest,California,2010-08-30,1
+Green Humungonaut,Animal,Humanoid,Ape,1,Urban,California,2010-09-07,0
+Red Humungonaut,Animal,Humanoid,Ape,1,Urban,California,2010-09-07,0
+Woodsman,Undead,Zombie,Human,1,Forest,United States,2010-09-14,3
+Fishman,Animal,Humanoid,Fish,1,Forest,United States,2010-09-14,3
+Specter of Shadow Canyon,Undead,Specter,Human,1,Forest,United States,2010-09-14,3
+Fright Hound,Mechanical,Robot,Hound,1,Urban,California,2010-10-04,1
+Vampire,Undead,Vampire,Human,1,Urban,California,2010-10-11,0
+Char Gar Gothakon,Extraterrestrial,Humanoid,Squid,1,Urban,California,2010-10-18,0
+Cicada Creature,Animal,Insect,Cicada,1,Urban,California,2010-10-25,1
+Wanda Grubwort,Magician,Witch,Human,1,Urban,Ohio,2011-03-01,3
+Lake Monsters,Animal,Humanoid,Frog,1,Urban,Ohio,2011-03-01,3
+Lord Infernicus,Undead,Skeleton,Human,1,Urban,California,2011-05-03,4
+Shadowy Orc,Mythical,Orc,Orc,1,Urban,California,2011-05-10,2
+Aphrodite,Mythical,Pupeteer,Human,1,Urban,California,2011-05-17,4
+Danny Darrow,Ancient,Hermit,Human,1,Urban,California,2011-05-24,5
+White Wizard,Magician,Wizard,Human,1,Urban,California,2011-05-31,0
+Nightfright,Mythical,Demon,Demon,1,Urban,California,2011-06-07,0
+Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,2011-06-14,5
+Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,2011-06-14,5
+Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,2011-06-14,5
+Fish Freaks,Animal,Humanoid,Fish,1,Urban,California,2011-06-14,5
+Manticore,Mythical,Manticore,Manticore,1,Urban,California,2011-06-21,0
+Headless Horror,Ancient,Humanoid,Jungle-Monster,1,Urban,California,2011-06-28,0
+Shadowy Figure,Ghost,Shadow,Human,1,Urban,California,2011-07-05,0
+Ghost of Dead Justice,Ghost,Sheriff,Human,1,Urban,California,2011-07-12,0
+Obliteratrix,Undead,Assassin,Human,1,Urban,California,2011-07-19,3
+Freak of Crystal Cove,Ancient,Humanoid,Beast,1,Urban,California,2011-07-26,0
+Phantosaurs,Ghost,Dinosaur,Appalachiosaurus,1,Desert,United States,2011-09-06,0
+Velociraptor,Ancient,Dinosaur,Velociraptor,1,Desert,United States,2011-09-06,0
+Lord Valdronya,Undead,Vampire,Human,1,Swamp,Louisiana,2012-03-13,1
+Fortius,Possessed Object,Statue,Human,1,Urban,England,2012-07-17,0
+Crybaby Clown,Disguised,Clown,Human,1,Urban,California,2012-07-30,0
+Baba Yaga House,Possessed Object,House,House,1,Forest,California,2012-07-31,0
+Baba Yaga,Magician,Witch,Human,1,Forest,California,2012-07-31,0
+Crybaby Clown,Disguised,Clown,Human,1,Urban,California,2012-08-01,1
+Dreamweaver,Magician,Wizard,Human,1,Urban,California,2012-08-02,0
+Hodag of Horror,Animal,Beast,Beast,1,Urban,California,2012-08-03,0
+Junk,Mechanical,Trash,Trash,1,Urban,California,2012-08-06,0
+Graveyard Ghoul,Undead,Ghoul,Human,1,Rural,California,2012-08-07,0
+Dark Lilith,Mythical,Demon,Demon,1,Desert,California,2012-08-08,0
+Hebediah Grim,Undead,Zombie,Human,1,Forest,California,2012-08-09,0
+Fiend,Mythical,Anubis,Human,1,Mountain,United States,2012-08-10,0
+Kriegstaffebot,Mechanical,Soldier,Robot,1,Ocean,California,2012-08-13,0
+Ghost of Abigail Gluck,Ghost,Ghost,Human,1,Ocean,California,2012-08-13,0
+Scarebear,Animal,Mutant,Bear,1,Forest,California,2012-08-14,0
+Krampus,Mythical,Beast,Krampus,1,Urban,California,2012-08-15,0
+Dragon,Mechanical,Dragon,Dragon,1,Island,United States,2012-08-16,1
+Mummy of Friar Serra,Undead,Mummy,Human,1,Urban,United States,2012-08-17,0
+Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,2012-10-09,0
+Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,2012-10-09,0
+Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,2012-10-09,0
+Werewolf,Animal,Werewolf,Human,1,Rural,New Jersey,2012-10-09,0
+Sinister Snowman,Possessed Object,Snow-Man,Snow-Man,1,Urban,United States,2012-10-16,3
+Mr. Hyde,Super-Villain,Split-Personality,Human,1,Urban,California,2013-02-26,0
+Grey Alien,Extraterrestrial,Alien,Alien,1,Urban,California,2013-03-25,0
+Reptiod,Animal,Humanoid,Reptile,1,Urban,California,2013-03-25,0
+Nordic Alien,Extraterrestrial,Alien,Alien,1,Urban,California,2013-03-25,0
+Skull Cattles,Undead,Skeleton,Bull,1,Rural,California,2013-03-25,0
+Skull Cattle Queen,Undead,Skeleton,Bull,1,Rural,California,2013-03-25,0
+Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,2013-03-26,3
+Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,2013-03-26,3
+Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,2013-03-26,3
+Rude Boy and the Ska-Tastics,Undead,Zombie,Human,1,Urban,California,2013-03-26,3
+Gluton Demon,Mythical,Demon,Demon,1,Urban,California,2013-03-27,0
+Dandy Highwayman,Disguised,Highwayman,Human,1,Urban,California,2013-03-28,1
+Evil Fred,Disguised,Clone,Human,1,Urban,California,2013-03-29,1
+Evil Daphnie,Disguised,Clone,Human,1,Urban,California,2013-03-29,1
+Monstrous Freak,Animal,Humanoid,Beast,1,Rural,California,2013-04-02,0
+Priestess,Magician,Shaman,Human,1,Jungle,Mexico,2013-04-03,0
+Kriegstaffebot,Mechanical,Soldier,Robot,1,Cave,California,2013-04-04,0
+Evil Entity,Mythical,Evil,Element,1,Cave,California,2013-04-05,0
+Evil Entity,Mythical,Evil,Element,1,Urban,California,2013-04-05,1
+Minions,Ancient,Humanoid,Human,1,Urban,California,2013-04-05,1
+Ye Phantom Parrot,Animal,Parrot,Bird,1,Island,United States,2013-07-23,2
+Ghost of Gnarlybeard,Undead,Pirate,Human,1,Island,United States,2013-07-23,2
+Phantom,Ghost,Phantom,Human,1,Urban,Illinois,2013-08-20,0
+Cornfield Clem,Possessed Object,Scarecrow,Scarecrow,1,Rural,United States,2013-09-10,0
+Mecha Mutt,Mechanical,Robot,Hound,1,Urban,United States,2013-09-24,0
+Ghost Bear,Ghost,Bear,Bear,1,Forest,United States,2014-03-25,0
+Eshu,Animal,Humanoid,Beast,1,Urban,Brazil,2014-05-13,0
+Ghost of the Baron,Ghost,Baron,Human,1,Rural,Pennsylvania,2014-08-19,5
+Frankencreep,Undead,Frankenstein's Monster,Chimera,1,Rural,Pennsylvania,2014-08-19,5
+Alien,Extraterrestrial,Extraterrestrial,Alien,1,Urban,Moon,2015-02-17,0
+Sea Monster,Possessed Object,Elemental,Water,1,Coast,Florida,2015-05-05,0
+Witch,Magician,Witch,Human,1,Urban,United States,2015-07-21,0
+KISS Monsters,Possessed Object,Statue,Human,1,Urban,United States,2015-07-21,0
+Harpies,Mythical,Harpy,Harpy,1,Urban,United States,2015-07-21,0
+The Destroyer,Demon,Demon,Demon,1,Urban,United States,2015-07-21,0
+Ghost of Elias Kingston,Ghost,Ghost,Human,1,Urban,United States,2015-10-05,0
+Spirit of the Zatari Warrior,Ancient,Spirit,Human,1,Cave,United States,2015-10-06,0
+Sea Creature,Animal,Humanoid,Sea-Monster,1,Ocean,United States,2015-10-07,0
+Sea Creature,Animal,Humanoid,Sea-Monster,1,Ocean,United States,2015-10-07,0
+Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,United States,2015-10-08,0
+Ghost of Chip Braverton,Ghost,Ghost,Human,1,Urban,United States,2015-10-09,0
+Sobek,Mythical,Humanoid,Crocodile,1,Urban,United States,2015-10-12,0
+Crystal Crawler,Animal,Humanoid,Cave-Monster,1,Cave,United States,2015-10-15,0
+Headless Count,Undead,Headless,Human,1,Rural,United States,2015-10-19,2
+Ghost of the Prima Donna,Ghost,Ghost,Human,1,Urban,United States,2015-10-20,0
+Yeti,Animal,Yeti,Yeti,1,Urban,United States,2015-10-21,0
+Butler 3000,Mechanical,Robot,Robot,1,Urban,United States,2015-10-22,0
+Alien,Extraterrestrial,Alien,Alien,1,Desert,Nevada,2015-10-23,0
+Phantom,Ghost,Phantom,Human,1,Rural,United States,2015-10-28,0
+Black Knight,Possessed Object,Suit,Object,1,Rural,United States,2015-11-25,0
+Pterodactyl,Ancient,Dinosaur,Pterodactyl,1,Urban,United States,2015-12-05,2
+Ghost of Stealin' Stan,Ghost,Prisoner,Human,1,Island,United States,2015-12-10,0
+Gremlin,Mythical,Gremlin,Gremlin,1,Air,United States,2016-02-13,0
+Sorcerer,Magician,Sorcerer,Human,1,Urban,United States,2016-02-20,0
+Swamp Monster,Plant,Humanoid,Swamp-Monster,1,Swamp,Louisiana,2016-02-27,0
+Snow Monster,Possessed Object,Snow-Man,Snow-Man,1,Snow,United States,2016-03-05,0
+Headless Horseman,Undead,Headless,Human,1,Urban,California,2016-03-10,0
+Mummy,Undead,Mummy,Human,1,Urban,California,2016-03-10,0
+Zombie,Undead,Zombie,Human,1,Urban,California,2016-03-10,0
+Giant,Mythical,Giant,Cyclops,1,Forest,Ireland,2016-03-12,0
+Scarecrow,Possessed Object,Humanoid,Scarecrow,1,Rural,United States,2016-03-23,0
+Scarecrow,Possessed Object,Humanoid,Scarecrow,1,Rural,United States,2016-03-23,0
+Inferno,Undead,Skeleton,Demon,1,Island,United States,2016-08-09,0
+Ghost of Dapper Jack Rogers,Ghost,Cowboy,Human,1,Desert,Texas,2017-02-14,0
+Ghost of the Cliff Bride,Undead,Zombie,Human,1,Rural,United States,2017-06-20,0
+Spirit of El Bandito,Undead,Skeleton,Human,1,Rural,Mexico,2017-06-20,5
+Madcap the Killer Clown,Disguised,Clown,Human,1,Urban,United States,2017-06-20,0
+Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,2017-06-20,5
+Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,2017-06-20,5
+Viking Ghosts,Ghost,Viking,Human,1,Forest,United States,2017-06-20,5
+Toxic Mutant,Undead,Mutant,Human,1,Urban,United States,2017-06-20,0
+Ghost Pirate,Ghost,Pirate,Human,1,Coast,United States,2017-07-25,5
+Ghost Pirate,Ghost,Pirate,Human,1,Coast,United States,2017-07-25,5
+Dorsal Foot,Animal,Humanoid,Shark,1,Coast,United States,2017-11-14,0
+Werewolf,Animal,Werewolf,Human,1,Forest,United States,2017-11-15,0
+Jester Monster,Disguised,Jester,Human,1,Forest,United States,2017-11-15,5
+Vampire,Undead,Vampire,Human,1,Rural,United States,2017-12-21,0
+Houndbeast,Animal,Beast,Hound,1,Urban,New York,2017-11-17,0
+Grim Reaper,Undead,Skeleton,Human,1,Rural,United States,2017-11-18,0
+Mummy,Undead,Mummy,Human,1,Rural,United States,2017-11-18,0
+Tengu,Mythical,Humanoid,Chicken,1,Rural,United States,2017-11-18,0
+Tarasque,Mythical,Humanoid,Turtle,1,Rural,United States,2017-11-18,0
+Tzitzimitl,Magician,Shaman,Human,1,Rural,United States,2017-11-18,0
+Manticore,Mythical,Beast,Manticore,1,Rural,United States,2017-11-18,0
+Haniver,Mythical,Beast,Beast,1,Rural,United States,2017-11-18,0
+Hemogoblin,Mythical,Goblin,Goblin,1,Rural,United States,2017-11-18,0
+Baba Yaga,Magician,Witch,Human,1,Urban,United States,2017-09-28,0
+Baba Yaga House,Possessed Object,House,House,1,Urban,United States,2017-09-28,0
+Kaniaku,Animal,Demon,Crab,1,Urban,Japan,2017-11-19,5
+Ghost of Amos Littlefield,Ghost,Ghost,Human,1,Urban,United States,2017-11-19,0
+Ghost of Jacob Marley,Ghost,Ghost,Human,1,Urban,England,2017-11-30,0
+Ghost of Christmas Past,Ghost,Ghost,Human,1,Urban,England,2017-11-30,0
+Ghost of Christmas Present,Ghost,Ghost,Human,1,Urban,England,2017-11-30,0
+Ghost of Christmas Future,Ghost,Ghost,Human,1,Urban,England,2017-11-30,0
+Space Kook,Extraterrestrial,Humanoid,Alien,1,Space,Space,2017-11-20,1
+Ghost of Mother,Undead,Zombie,Human,1,Snow,United States,2017-11-21,0
+Ghost of Archie Barnes,Ghost,Ghost,Human,1,Rural,California,2017-11-22,0
+Mutant Rabbit,Animal,Giant,Rabbit,1,Urban,United States,2017-11-22,0
+Arachne,Mythical,Humanoid,Spider,1,Rural,Greece,2017-11-23,3
+Crimson Cloak,Ghost,Phantom,Human,1,Urban,United States,2018-01-09,0
+Plant Monster,Plant,Humanoid,Bush,1,Urban,United States,2018-03-08,0
+Minus,Disguised,Mutant,Human,1,Urban,United States,2018-03-09,0
+The Mystery Machine,Possessed Object,Car,Vehicle,1,Desert,United States,2018-03-10,0
+Ice Man,Ancient,Caveman,Human,1,Snow,United States,2018-03-11,5
+Ape Man,Animal,Half-Human,Ape,1,Urban,Florida,2018-03-12,0
+Trash Monster,Mechanical,Robot,Robot,1,Rural,United States,2018-03-13,0
+Ghost Chef,Ghost,Chef,Human,1,Urban,California,2018-03-14,0
+Demon of Salem,Mythical,Demon,Demon,1,Rural,Massachusetts,2018-03-15,5
+Professor Huh?,Disguised,Random,Human,1,Urban,United States,2018-03-16,0
+Professor Huh?,Disguised,Random,Human,1,Urban,United States,2018-03-17,0
+Pizza O'Possum,Mechanical,Robot,Rat,1,Urban,United States,2018-03-18,0
+Half-Beard's Ghost,Ghost,Pirate,Human,1,Cave,United States,2018-03-18,0
+Phantasm,Undead,Phantasm,Human,1,Rural,United States,2018-03-29,0
+Ghost Kid,Undead,Ghost,Human,1,Rural,United States,2018-03-29,0
+Red Ghost,Ghost,Phantom,Human,1,Rural,Rhode Island,2018-09-11,0
+Living Tree,Plant,Tree,Tree,1,Rural,United States,2018-10-01,
+Asmodeus,Mythical,Demon,Demon,1,Mountain,Tibet,2019-02-05,0
+Swamp Monster,Animal,Humanoid,Swamp-Monster,1,Swamp,Florida,2019-06-27,0
+Civil War Zombie Ghosts,Ghost,Soldier,Human,1,Rural,Pennsylvania,2019-07-02,0
+Fish Monster,Animal,Humanoid,Fish,1,Urban,United States,2019-07-11,0
+Screaming Skulls of London,Ghost,Skulls,Skull,1,Urban,England,2019-07-18,5
+Zombies,Undead,Zombie,Human,1,Swamp,Louisiana,2019-07-21,0
+Werecat Simone Lenoir,Animal,Werecat,Werecat,1,Swamp,Louisiana,2019-07-21,0
+Werecat Lena Dupree,Animal,Werecat,Werecat,1,Swamp,Louisiana,2019-07-21,0
+Werecat Jacques,Animal,Werecat,Werecat,1,Swamp,Louisiana,2019-07-21,0
+Werecat,Animal,Werecat,Werecat,1,Swamp,Louisiana,2019-07-21,0
+Cat Mummy,Undead,Mummy,Cat,1,Urban,England,2019-07-25,0
+Minotaur,Mythical,Minotaur,Minotaur,1,Rural,Greece,2019-08-01,0
+Ghost of Madds Markson,Undead,Ghost,Human,1,Urban,Nevada,2019-08-08,0
+Madds Markson Monster,Animal,Mutant,Bunny,1,Urban,Nevada,2019-08-08,0
+Technomancer,Magician,Technomancer,Human,1,Urban,Illinois,2019-08-15,0
+Spectral Speedster,Ghost,Humanoid,Monster,1,Rural,United States,2019-08-22,0
+Dinosaur,Animal,Allosaurus,Dinosaur,1,Forest,United States,2019-08-29,0
+Dinosaur,Animal,Ceratosarus,Dinosaur,1,Forest,United States,2019-08-29,0
+Sia Doppelganger,Disguised,Sia,Human,1,Urban,California,2019-09-05,0
+Pazzo the Ghost Clown,Ghost,Clown,Human,1,Urban,Georgia,2019-09-12,1
+Man-Bat,Animal,Humanoid,Bat,1,Urban,United States,2019-09-19,5
+Control Freak,Super-Villain,Obese,Human,1,Urban,United States,2019-10-04,0
+Rotten Robots,Mechanical,Robot,Robot,1,Urban,California,2020-05-15,4
+Dick Dastardly,Super-Villain,Cartoon Villain,Human,1,Urban,California,2020-05-15,4
+Muttley,Animal,Cartoon Villain,Hound,1,Urban,California,2020-05-15,4
+Cerberus,Mythical,Cerberus,Hound,1,Urban,California,2020-05-15,4
+Nightmare Ghost,Ghost,Nightmare,Human,1,Snow,Pennsylvania,2020-07-02,3
+Fox Monster,Animal,Giant,Fox,1,Rural,Japan,2020-07-02,5
+Miner Forty-Niner,Ancient,Miner,Human,1,Rural,United States,2020-07-02,3
+Ghost of Captain Cutler,Ghost,Suit,Human,1,Rural,United States,2020-07-02,3
+Spooky Space Kook,Extraterrestrial,Phantom,Alien,1,Rural,United States,2020-07-02,3
+Snow Ghost,Animal,Ghost,Snow-Monster,1,Rural,United States,2020-07-02,3
+Clown,Disguised,Clown,Human,1,Rural,United States,2020-07-02,3
+Ghost of Redbeard,Ghost,Pirate,Human,1,Rural,United States,2020-07-02,3
+Back Knight,Possessed Object,Suit,Object,1,Rural,United States,2020-07-02,3
+Witch,Magician,Witch,Human,1,Rural,United States,2020-07-02,3
+Witch Doctor,Magician,Shaman,Human,1,Rural,United States,2020-07-02,3
+Phantom,Ghost,Phantom,Human,1,Rural,United States,2020-07-02,3
+Creeper,Undead,Zombie,Human,1,Rural,United States,2020-07-02,3
+Giant Teddy Bear,Possessed Object,Giant,Teddy Bear,1,Rural,United States,2020-07-02,3
+Ghost of the Doom Bringer,Possessed Object,Suit,Suit,1,Urban,California,2020-07-02,0
+Gator Man Monster,Animal,Humanoid,Alligator,1,Urban,New York,2020-07-02,0
+Fire Monster of Mount Etna,Animal,Humanoid,Fire-Monster,1,Urban,Italy,2020-07-02,0
+Crazy Carl,Possessed Object,Humanoid,Puppet,1,Rural,United States,2020-07-02,0
+Ghost of Madame Zobrinsky,Ghost,Ghost,Human,1,Urban,Pennsylvania,2020-07-02,0
+Wedding Witch of Wainsly Hall,Magician,Witch,Human,1,Swamp,United States,2020-07-02,0
+Chronobeast,Animal,Humanoid,Chronobeast,1,Desert,United States,2020-07-02,0
+Robo Dooby Doo,Mechanical,Robot,Hound,1,Desert,United States,2020-07-02,0
+Ghost of Ester Moonkiller,Ghost,Ghost,Human,1,Urban,Ohio,2020-07-02,0
+Werewolf,Animal,Werewolf,Human,1,Urban,United States,2020-07-02,0
+Tardigrade Monster,Animal,Giant,Tardigrade,1,Space,Space,2020-07-02,0
+Ghost of Tallis Taggert,Ghost,Captain,Human,1,Urban,Tennessee,2020-10-01,0
+Ghost of Jean Lebeau,Ghost,Prisoner,Human,1,Rural,United States,2020-10-01,0
+Phineas Phrag Monster,Animal,Humanoid,Beast,1,Rural,United States,2020-10-01,0
+Gnarled One,Plant,Living,Tree,1,Urban,Illinois,2020-10-01,0
+Gargoyle,Possessed Object,Statue,Gargoyle,1,Urban,France,2020-10-01,0
+Frankenfooder Monster,Possessed Object,Humanoid,Fruit,1,Forest,Germany,2020-10-01,0
+Elevator Operator Ghost,Ghost,Ghost,Human,1,Urban,United States,2020-10-01,0
+Snow Devil,Animal,Yeti,Yeti,1,Snow,Austria,2020-10-01,0
+Caveman,Ancient,Caveman,Human,1,Mountain,Colorado,2020-10-01,0
+Robot,Mechanical,Robot,Robot,1,Urban,Kentucky,2020-10-01,0
+Ghost of Charles M. Thraber,Ghost,Ghost,Human,1,Rural,United States,2020-10-01,0
+Zombie Mascot,Undead,Zombie,Yak,1,Urban,Washington,2020-10-01,0
+Hyde Monster,Disguised,Split-Personality,Human,1,Urban,California,2020-10-01,0
+Mummy,Undead,Mummy,Human,1,Urban,California,2020-10-01,0
+Dinosaur,Animal,Dinosaur,Dinosaur,1,Urban,California,2020-10-01,0
+Giant Manta Ray,Animal,Giant,Manta Ray,1,Urban,California,2020-10-01,0
+Alpha Jackal-Lantern,Plant,Giant,Pumpkin,1,Rural,California,2020-10-06,0
+Jackal-Lanterns,Plant,Mutant,Pumpkin,1,Rural,California,2020-10-06,0
+Morgan le Fay,Magician,Sorceress,Human,1,Rural,England,2020-02-23,1
+Black Knight,Possessed Object,Suit,Object,1,Rural,England,2020-02-23,1
+Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,2021-02-25,3
+Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,2021-02-25,3
+Mud Men,Possessed Object,Humanoid,Mud,1,Desert,United States,2021-02-25,3
+Max Kilobyte,Mechanical,Genius,Robot,1,Urban,California,2020-11-13,0
